@@ -1,0 +1,1209 @@
+ghg_id,fabric_group,fabric_name,fabric_type,process_step,country,env_impact_group,indicator_unit,fabric_eKPI_intensity,ePL_eKPI_intensity
+1,Leather,beef/calf,conventional,Abattoir,Algeria,GHGs,kg CO2e,0.716069945,0.052614875
+2,Leather,sheep/lamb,conventional,Tanning - RH_WB,Algeria,GHGs,kg CO2e,0.866120644,0.063640193
+3,Leather,sheep/lamb,conventional,Tanning - RH_WB - Metal-free,Algeria,GHGs,kg CO2e,1.546629272,0.113642118
+4,Leather,sheep/lamb,conventional,Animal rearing,Algeria,GHGs,kg CO2e,33.64593171,2.472211679
+5,Fur,None,None,Tanning - RH_WB,Argentina,GHGs,kg CO2e,0.860990449,0.06326324
+6,Plant Fibers,cotton,conventional,Ginning,Argentina,GHGs,kg CO2e,0.619595053,0.045526162
+7,Fur,None,None,Animal rearing,Argentina,GHGs,kg CO2e,134.0747768,9.851450451
+8,Animal Fibers,wool,conventional,Animal rearing,Argentina,GHGs,kg CO2e,126.3125776,9.281105136
+9,Leather,sheep/goat,conventional,Abattoir,Australia,GHGs,kg CO2e,0.64386531,0.047309474
+10,Animal Fibers,cashmere,conventional,Washing,Australia,GHGs,kg CO2e,2.164392827,0.159033706
+11,Animal Fibers,wool,restorative grazing,Washing,Australia,GHGs,kg CO2e,0.967510224,0.071090023
+12,Animal Fibers,wool,conventional,Animal rearing,Australia,GHGs,kg CO2e,127.2318349,9.348649664
+13,Animal Fibers,wool,organic,Animal rearing,Australia,GHGs,kg CO2e,127.1686432,9.344006514
+14,Animal Fibers,silk,conventional,Silk production,Australia,GHGs,kg CO2e,74.276265,5.457618218
+15,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.249418352,0.312235719
+16,Animal Fibers,mohair,restorative grazing,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.249418352,0.312235719
+17,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.249418352,0.312235719
+18,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.014010629,0.294938599
+19,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.014010629,0.294938599
+20,Animal Fibers,wool,conventional,Washing,Austria,GHGs,kg CO2e,0.881402334,0.06476305
+21,Animal Fibers,wool,conventional,Animal rearing,Austria,GHGs,kg CO2e,127.1487298,9.34254333
+22,Plant Fibers,hemp,None,Crop farming,Bangladesh,GHGs,kg CO2e,3.810450702,0.279981568
+23,Leather,beef/calf,conventional,Tanning - RH_WB,Belarus,GHGs,kg CO2e,0.866120644,0.063640193
+24,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.093422285,0.300773552
+25,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.315838359,0.317116081
+26,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.315838359,0.317116081
+27,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.091446637,0.300628386
+28,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.091446637,0.300628386
+29,Leather,beef/calf,conventional,Tanning - RH_WB,Belgium,GHGs,kg CO2e,0.866120644,0.063640193
+30,Leather,beef/calf,conventional,Tanning - WB_FL,Belgium,GHGs,kg CO2e,1.054171113,0.07745763
+31,Plant Fibers,linen,organic,Ginning,Belgium,GHGs,kg CO2e,0.2975828,0.021865576
+32,Synthetic Fibers,elastic,None,Extraction,Belgium,GHGs,kg CO2e,0.069097484,0.005077095
+33,Leather,beef/calf,conventional,Abattoir,Bosnia and Herzegovina,GHGs,kg CO2e,0.513481904,0.037729256
+34,Leather,sheep/goat,conventional,Tanning - RH_WB,Brazil,GHGs,kg CO2e,1.368080014,0.100522804
+35,Plant Fibers,linen,conventional,Crop farming,Brazil,GHGs,kg CO2e,0.885974157,0.065098975
+36,Leather,beef/calf,salpa,Animal rearing,Brazil,GHGs,kg CO2e,0.08031664,0.005901449
+37,Leather,beef/calf,conventional,Abattoir,Bulgaria,GHGs,kg CO2e,0.513481904,0.037729256
+38,Leather,goat,conventional,Abattoir,Bulgaria,GHGs,kg CO2e,0.680765401,0.050020793
+39,Leather,beef/calf,conventional,Tanning - RH_WB,Bulgaria,GHGs,kg CO2e,0.866120644,0.063640193
+40,Leather,sheep/lamb,conventional,Tanning - RH_WB,Bulgaria,GHGs,kg CO2e,0.866120644,0.063640193
+41,Synthetic Fibers,polyester,conventional,Processing,Bulgaria,GHGs,kg CO2e,3.794428291,0.278804285
+42,Leather,sheep/lamb,conventional,Animal rearing,Bulgaria,GHGs,kg CO2e,11.5292878,0.847140754
+43,Synthetic Fibers,elastic,None,Extraction,Bulgaria,GHGs,kg CO2e,0.069097484,0.005077095
+44,Leather,beef/calf,conventional,Abattoir,Canada,GHGs,kg CO2e,0.513481904,0.037729256
+45,Animal Fibers,wool,regenerated,Washing,Chile,GHGs,kg CO2e,2.204676029,0.161993607
+46,Animal Fibers,wool,regenerated,Animal rearing,Chile,GHGs,kg CO2e,66.20897342,4.864855544
+47,Leather,sheep/goat,conventional,Abattoir,China,GHGs,kg CO2e,0.743821652,0.054653995
+48,Leather,goat,conventional,Abattoir,China,GHGs,kg CO2e,0.915942091,0.067300937
+49,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.02653711,1.030631851
+50,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.02653711,1.030631851
+51,Animal Fibers,mohair,restorative grazing,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.02653711,1.030631851
+52,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.02653711,1.030631851
+53,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.02653711,1.030631851
+54,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.02653711,1.030631851
+55,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,13.24579397,0.973264965
+56,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,13.24579397,0.973264965
+57,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.69694078,1.079891291
+58,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,29.39388155,2.159782583
+59,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.69694078,1.079891291
+60,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.69694078,1.079891291
+61,Leather,goat,conventional,Tanning - WB_FL,China,GHGs,kg CO2e,1.054171113,0.07745763
+62,Leather,sheep/lamb,conventional,Tanning - RH_WB,China,GHGs,kg CO2e,0.866120644,0.063640193
+63,Animal Fibers,cashmere,conventional,Washing,China,GHGs,kg CO2e,4.981568208,0.366032102
+64,Animal Fibers,cashmere,organic,Washing,China,GHGs,kg CO2e,4.981568208,0.366032102
+65,Animal Fibers,mohair,conventional,Washing,China,GHGs,kg CO2e,4.981568208,0.366032102
+66,Animal Fibers,wool,conventional,Washing,China,GHGs,kg CO2e,1.542126079,0.113311236
+67,Plant Fibers,cotton,recycled,Cotton recycling,China,GHGs,kg CO2e,0.483770458,0.035546139
+68,Plant Fibers,hemp,None,Ginning,China,GHGs,kg CO2e,0.000160365,1.18E-05
+69,Plant Fibers,cotton,conventional,Ginning,China,GHGs,kg CO2e,0.870926697,0.063993328
+70,Synthetic Fibers,nylon,Econyl,Processing,China,GHGs,kg CO2e,3.483434116,0.255953278
+71,Synthetic Fibers,elastic,None,Processing,China,GHGs,kg CO2e,4.456852409,0.32747741
+72,Synthetic Fibers,neoprene,None,Processing,China,GHGs,kg CO2e,6.659961796,0.489355904
+73,Synthetic Fibers,polyester,conventional,Processing,China,GHGs,kg CO2e,14.216746,1.044607883
+74,Plant Fibers,hemp,None,Crop farming,China,GHGs,kg CO2e,4.037995491,0.296700942
+75,Plant Fibers,linen,conventional,Crop farming,China,GHGs,kg CO2e,1.638860993,0.120419055
+76,Animal Fibers,mohair,conventional,Animal rearing,China,GHGs,kg CO2e,380.2632081,27.94070773
+77,Fur,None,None,Animal rearing,China,GHGs,kg CO2e,168.1993939,12.35883463
+78,Leather,deer,None,Animal rearing,China,GHGs,kg CO2e,16.82455656,1.236222721
+79,Animal Fibers,wool,conventional,Animal rearing,China,GHGs,kg CO2e,127.4544247,9.365004964
+80,Leather,beef/calf,salpa,Animal rearing,China,GHGs,kg CO2e,0.058983223,0.004333927
+81,Animal Fibers,wool,restorative grazing,Animal rearing,China,GHGs,kg CO2e,153.0232379,11.24373191
+82,Animal Fibers,silk,conventional,Silk production,China,GHGs,kg CO2e,48.254945,3.545642298
+83,Animal Fibers,cashmere,regenerated,Animal rearing,China,GHGs,kg CO2e,1428.828355,104.9864268
+84,Leather,beef/calf,conventional,Abattoir,Denmark,GHGs,kg CO2e,0.513481904,0.037729256
+85,Leather,beef/calf,conventional,Tanning - RH_WB - Metal-free,Denmark,GHGs,kg CO2e,0.63735214,0.046830904
+86,Plant Fibers,cotton,conventional,Ginning,Estonia,GHGs,kg CO2e,0.402542336,0.029577718
+87,Leather,beef/calf,conventional,Tanning - RH_WB,Ethiopia,GHGs,kg CO2e,0.866120644,0.063640193
+88,Leather,beef/calf,conventional,Abattoir,Finland,GHGs,kg CO2e,0.513481904,0.037729256
+89,Fur,fox,None,Abattoir,Finland,GHGs,kg CO2e,3.011877848,0.221304604
+90,Animal Fibers,cashmere,regenerated,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.135766341,0.303884878
+91,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.135766341,0.303884878
+92,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.135766341,0.303884878
+93,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.135766341,0.303884878
+94,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.135766341,0.303884878
+95,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.135766341,0.303884878
+96,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,3.881509016,0.28520274
+97,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,3.881509016,0.28520274
+98,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,8.3256847,0.611748699
+99,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.16284235,0.30587435
+100,Fur,None,None,Tanning - RH_WB,France,GHGs,kg CO2e,0.860990449,0.06326324
+101,Fur,lamb,None,Tanning - RH_WB,France,GHGs,kg CO2e,0.860990449,0.06326324
+102,Leather,beef/calf,conventional,Tanning - WB_FL,France,GHGs,kg CO2e,1.054171113,0.07745763
+103,Animal Fibers,wool,conventional,Washing,France,GHGs,kg CO2e,0.871189451,0.064012635
+104,Plant Fibers,linen,conventional,Ginning,France,GHGs,kg CO2e,0.297560254,0.021863919
+105,Synthetic Fibers,nylon,Econyl,Processing,France,GHGs,kg CO2e,3.483434116,0.255953278
+106,Fur,lamb,None,Animal rearing,France,GHGs,kg CO2e,113.669625,8.352135318
+107,Plant Fibers,hemp,None,Crop farming,France,GHGs,kg CO2e,1.772987863,0.130274333
+108,Fur,None,None,Animal rearing,France,GHGs,kg CO2e,113.669625,8.352135318
+109,Animal Fibers,wool,conventional,Animal rearing,France,GHGs,kg CO2e,126.3060195,9.280623263
+110,Leather,beef/calf,conventional,Abattoir,Germany,GHGs,kg CO2e,0.513481904,0.037729256
+111,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.709561398,0.34604578
+112,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,9.663606833,0.710055584
+113,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.831803417,0.355027792
+114,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.831803417,0.355027792
+115,Leather,beef/calf,conventional,Tanning - RH_WB - Metal-free,Germany,GHGs,kg CO2e,0.63735214,0.046830904
+116,Leather,beef/calf,conventional,Tanning - WB_FL,Germany,GHGs,kg CO2e,1.054171113,0.07745763
+117,Animal Fibers,wool,organic,Washing,Germany,GHGs,kg CO2e,0.922751245,0.067801255
+118,Animal Fibers,wool,regenerated,Washing,Germany,GHGs,kg CO2e,1.263781888,0.092859261
+119,Synthetic Fibers,nylon,Econyl,Processing,Germany,GHGs,kg CO2e,3.483434116,0.255953278
+120,Synthetic Fibers,polyester,conventional,Processing,Germany,GHGs,kg CO2e,3.794428291,0.278804285
+121,Leather,beef/calf,salpa,Animal rearing,Germany,GHGs,kg CO2e,0.028208181,0.002072661
+122,Animal Fibers,wool,restorative grazing,Animal rearing,Germany,GHGs,kg CO2e,152.8914863,11.23405116
+123,Synthetic Fibers,acrylic,None,Extraction,Germany,GHGs,kg CO2e,0.183277929,0.013466764
+124,Synthetic Fibers,elastic,None,Extraction,Germany,GHGs,kg CO2e,0.069097484,0.005077095
+125,Synthetic Fibers,polyester,conventional,Extraction,Germany,GHGs,kg CO2e,0.20320882,0.014931232
+126,Synthetic Fibers,nylon,conventional,Extraction,Germany,GHGs,kg CO2e,0.951478599,0.069912063
+127,Leather,beef/calf,conventional,Abattoir,Greece,GHGs,kg CO2e,0.513481904,0.037729256
+128,Leather,beef/calf,conventional,Tanning - RH_WB,Greece,GHGs,kg CO2e,0.866120644,0.063640193
+129,Leather,goat,conventional,Tanning - RH_WB - Metal-free,Greece,GHGs,kg CO2e,0.63735214,0.046830904
+130,Plant Fibers,cotton,recycled,Cotton recycling,Greece,GHGs,kg CO2e,0.45948,0.033761342
+131,Plant Fibers,cotton,conventional,Ginning,Greece,GHGs,kg CO2e,0.498464091,0.036625788
+132,Plant Fibers,cotton,organic,Ginning,Greece,GHGs,kg CO2e,0.76673054,0.056337278
+133,Leather,beef/calf,conventional,Animal rearing,Greece,GHGs,kg CO2e,17.13936397,1.259353914
+134,Synthetic Fibers,polyester,conventional,Extraction,Greece,GHGs,kg CO2e,0.20320882,0.014931232
+135,Plant Fibers,cotton,recycled,Spinning Weaving and Dyeing,Hungary,GHGs,kg CO2e,4.361182064,0.320447813
+136,Leather,sheep/lamb,conventional,Abattoir,India,GHGs,kg CO2e,0.49388423,0.036289272
+137,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.955861953,0.731529696
+138,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.955861953,0.731529696
+139,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.955861953,0.731529696
+140,Plant Fibers,cotton,recycled,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.722162834,0.71435812
+141,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,10.55707162,0.77570495
+142,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,10.55707162,0.77570495
+143,Synthetic Fibers,nylon,Econyl,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,10.55707162,0.77570495
+144,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,21.11414325,1.5514099
+145,Leather,goat,conventional,Tanning - RH_WB,India,GHGs,kg CO2e,0.866120644,0.063640193
+146,Leather,goat,conventional,Tanning - WB_FL,India,GHGs,kg CO2e,1.054171113,0.07745763
+147,Leather,goat,conventional,Tanning - WB_FL - Metal-free,India,GHGs,kg CO2e,1.883717293,0.138410431
+148,Leather,sheep/lamb,conventional,Tanning - RH_WB - Metal-free,India,GHGs,kg CO2e,1.338322039,0.098336269
+149,Leather,sheep/lamb,conventional,Tanning - WB_FL,India,GHGs,kg CO2e,1.054171113,0.07745763
+150,Plant Fibers,cotton,recycled,Cotton recycling,India,GHGs,kg CO2e,0.53246958,0.039124419
+151,Plant Fibers,cotton,organic,Ginning,India,GHGs,kg CO2e,1.031211519,0.075770622
+152,Synthetic Fibers,acrylic,None,Processing,India,GHGs,kg CO2e,9.338861143,0.686194152
+153,Synthetic Fibers,elastic,None,Processing,India,GHGs,kg CO2e,3.331178126,0.244765921
+154,Synthetic Fibers,polyester,conventional,Processing,India,GHGs,kg CO2e,11.82908653,0.86916915
+155,Synthetic Fibers,polyester,recycled,Processing,India,GHGs,kg CO2e,9.968774873,0.732478502
+156,Animal Fibers,silk,conventional,Silk production,India,GHGs,kg CO2e,74.276265,5.457618218
+157,Synthetic Fibers,acrylic,None,Extraction,India,GHGs,kg CO2e,0.183277929,0.013466764
+158,Synthetic Fibers,nylon,conventional,Extraction,India,GHGs,kg CO2e,0.951478599,0.069912063
+159,Synthetic Fibers,elastic,None,Processing,Indonesia,GHGs,kg CO2e,2.17547152,0.159847739
+160,Synthetic Fibers,elastic,None,Extraction,Indonesia,GHGs,kg CO2e,0.062020597,0.004557105
+161,Synthetic Fibers,polyester,conventional,Extraction,Indonesia,GHGs,kg CO2e,0.292127551,0.021464739
+162,Leather,sheep/lamb,conventional,Animal rearing,Iraq,GHGs,kg CO2e,14.99322183,1.101661219
+163,Synthetic Fibers,polyester,conventional,Extraction,Ireland,GHGs,kg CO2e,0.20320882,0.014931232
+164,Plant Fibers,cotton,organic,Ginning,Israel,GHGs,kg CO2e,0.683226927,0.050201659
+165,Plant Fibers,cotton,conventional,Ginning,Israel,GHGs,kg CO2e,0.806959808,0.059293215
+166,Plant Fibers,cotton,conventional,Crop farming,Israel,GHGs,kg CO2e,1.349838536,0.099182469
+167,Leather,sheep/lamb,conventional,Abattoir,Italy,GHGs,kg CO2e,0.454717668,0.033411419
+168,Fur,None,None,Abattoir,Italy,GHGs,kg CO2e,1.82541288,0.134126381
+169,Leather,beef/calf,conventional,Abattoir,Italy,GHGs,kg CO2e,0.513481904,0.037729256
+170,Leather,sheep/goat,conventional,Abattoir,Italy,GHGs,kg CO2e,0.602498545,0.044269957
+171,Leather,beef/calf,salpa,Abattoir,Italy,GHGs,kg CO2e,0.000855518,6.29E-05
+172,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.542953634,0.333803894
+173,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.542953634,0.333803894
+174,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.542953634,0.333803894
+175,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.356229812,0.320083935
+176,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.356229812,0.320083935
+177,Plant Fibers,cotton,recycled,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.356229812,0.320083935
+178,Plant Fibers,linen,organic,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.356229812,0.320083935
+179,Synthetic Fibers,neoprene,None,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.637563146,0.340755544
+180,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.637563146,0.340755544
+181,Fur,fox,None,Tanning - WB_FL,Italy,GHGs,kg CO2e,1.054171113,0.07745763
+182,Fur,mink,None,Tanning - RH_WB,Italy,GHGs,kg CO2e,0.866120644,0.063640193
+183,Fur,mink,None,Tanning - WB_FL,Italy,GHGs,kg CO2e,1.054171113,0.07745763
+184,Leather,beef/calf,conventional,Tanning - RH_WB - Metal-free,Italy,GHGs,kg CO2e,0.63735214,0.046830904
+185,Leather,goat,conventional,Tanning - RH_WB,Italy,GHGs,kg CO2e,0.866120644,0.063640193
+186,Leather,goat,conventional,Tanning - WB_FL - Metal-free,Italy,GHGs,kg CO2e,0.953909563,0.070090684
+187,Leather,sheep/lamb,conventional,Tanning - RH_WB - Metal-free,Italy,GHGs,kg CO2e,0.63735214,0.046830904
+188,Leather,sheep/lamb,conventional,Tanning - WB_FL,Italy,GHGs,kg CO2e,1.054171113,0.07745763
+189,Leather,sheep/goat,conventional,Tanning - WB_FL,Italy,GHGs,kg CO2e,1.054171113,0.07745763
+190,Leather,sheep/goat,conventional,Tanning - WB_FL - Metal-free,Italy,GHGs,kg CO2e,0.953909563,0.070090684
+191,Animal Fibers,wool,conventional,Washing,Italy,GHGs,kg CO2e,0.907779706,0.066701187
+192,Plant Fibers,cotton,recycled,Cotton recycling,Italy,GHGs,kg CO2e,0.394401401,0.028979544
+193,Synthetic Fibers,nylon,Econyl,Processing,Italy,GHGs,kg CO2e,3.483434116,0.255953278
+194,Synthetic Fibers,polyester,recycled,Processing,Italy,GHGs,kg CO2e,3.204991453,0.235494067
+195,Leather,beef/calf,conventional,Animal rearing,Italy,GHGs,kg CO2e,16.88258834,1.240486738
+196,Plant Fibers,cotton,conventional,Crop farming,Italy,GHGs,kg CO2e,2.169300226,0.159394289
+197,Animal Fibers,wool,conventional,Animal rearing,Italy,GHGs,kg CO2e,126.7441127,9.312813168
+198,Leather,sheep/goat,conventional,Animal rearing,Italy,GHGs,kg CO2e,33.64593171,2.472211679
+199,Synthetic Fibers,elastic,None,Extraction,Italy,GHGs,kg CO2e,0.069097484,0.005077095
+200,Synthetic Fibers,nylon,conventional,Extraction,Italy,GHGs,kg CO2e,0.951478599,0.069912063
+201,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.607281452,0.412007812
+202,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.607281452,0.412007812
+203,Animal Fibers,mohair,restorative grazing,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.607281452,0.412007812
+204,Plant Fibers,cotton,recycled,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.350477029,0.39313852
+205,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.74825435,0.422366117
+206,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.74825435,0.422366117
+207,Synthetic Fibers,nylon,Econyl,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.74825435,0.422366117
+208,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.74825435,0.422366117
+209,Plant Fibers,cotton,recycled,Cotton recycling,Japan,GHGs,kg CO2e,0.433503779,0.03185268
+210,Plant Fibers,hemp,None,Ginning,Japan,GHGs,kg CO2e,0.000160365,1.18E-05
+211,Synthetic Fibers,acrylic,None,Processing,Japan,GHGs,kg CO2e,3.708183765,0.272467272
+212,Plant Fibers,cotton,conventional,Crop farming,Japan,GHGs,kg CO2e,1.270668349,0.093365259
+213,Animal Fibers,silk,conventional,Silk production,Japan,GHGs,kg CO2e,48.254945,3.545642298
+214,Synthetic Fibers,acrylic,None,Extraction,Japan,GHGs,kg CO2e,0.183277929,0.013466764
+215,Synthetic Fibers,polyester,conventional,Extraction,Japan,GHGs,kg CO2e,0.139718219,0.010266115
+216,Synthetic Fibers,nylon,conventional,Extraction,Japan,GHGs,kg CO2e,0.951478599,0.069912063
+217,Leather,sheep/lamb,conventional,Animal rearing,Jordan,GHGs,kg CO2e,33.64593171,2.472211679
+218,Leather,sheep/goat,conventional,Animal rearing,Jordan,GHGs,kg CO2e,33.64593171,2.472211679
+219,Leather,beef/calf,conventional,Abattoir,Latvia,GHGs,kg CO2e,0.513481904,0.037729256
+220,Synthetic Fibers,nylon,conventional,Processing,Latvia,GHGs,kg CO2e,18.07025374,1.327753166
+221,Leather,beef/calf,conventional,Animal rearing,Latvia,GHGs,kg CO2e,17.01311327,1.250077356
+222,Synthetic Fibers,nylon,conventional,Extraction,Latvia,GHGs,kg CO2e,0.951478599,0.069912063
+223,Leather,sheep/lamb,conventional,Animal rearing,Lebanon,GHGs,kg CO2e,14.86632583,1.092337245
+224,Leather,beef/calf,conventional,Abattoir,Lithuania,GHGs,kg CO2e,0.513481904,0.037729256
+225,Leather,beef/calf,conventional,Tanning - RH_WB,Lithuania,GHGs,kg CO2e,0.866120644,0.063640193
+226,Plant Fibers,hemp,None,Ginning,Madagascar,GHGs,kg CO2e,0.000160365,1.18E-05
+227,Plant Fibers,hemp,None,Crop farming,Madagascar,GHGs,kg CO2e,2.826956334,0.207717073
+228,Plant Fibers,cotton,conventional,Crop farming,Madagascar,GHGs,kg CO2e,1.349838536,0.099182469
+229,Synthetic Fibers,elastic,None,Processing,Malaysia,GHGs,kg CO2e,2.101351555,0.154401605
+230,Synthetic Fibers,elastic,None,Extraction,Malaysia,GHGs,kg CO2e,0.069097484,0.005077095
+231,Synthetic Fibers,acrylic,None,Extraction,Moldova,GHGs,kg CO2e,0.183277929,0.013466764
+232,Leather,goat,conventional,Abattoir,Mongolia,GHGs,kg CO2e,1.049818622,0.077137821
+233,Leather,goat,conventional,Tanning - RH_WB,Mongolia,GHGs,kg CO2e,0.866120644,0.063640193
+234,Animal Fibers,wool,conventional,Washing,Mongolia,GHGs,kg CO2e,0.934583335,0.068670645
+235,Animal Fibers,wool,restorative grazing,Washing,Mongolia,GHGs,kg CO2e,1.343154945,0.098691377
+236,Animal Fibers,cashmere,conventional,Animal rearing,Mongolia,GHGs,kg CO2e,1739.613998,127.8221118
+237,Leather,sheep/lamb,conventional,Abattoir,Morocco,GHGs,kg CO2e,0.589709698,0.043330267
+238,Leather,goat,conventional,Animal rearing,Morocco,GHGs,kg CO2e,175.1026243,12.86606525
+239,Synthetic Fibers,elastic,None,Extraction,Morocco,GHGs,kg CO2e,0.062020597,0.004557105
+240,Leather,beef/calf,conventional,Abattoir,Netherlands,GHGs,kg CO2e,0.513481904,0.037729256
+241,Leather,sheep/lamb,conventional,Animal rearing,Netherlands,GHGs,kg CO2e,11.53147754,0.84730165
+242,Leather,goat,conventional,Animal rearing,Netherlands,GHGs,kg CO2e,175.1026243,12.86606525
+243,Fur,None,None,Abattoir,New Zealand,GHGs,kg CO2e,1.82541288,0.134126381
+244,Leather,sheep/goat,conventional,Abattoir,New Zealand,GHGs,kg CO2e,0.443304662,0.032572823
+245,Leather,beef/calf,salpa,Abattoir,New Zealand,GHGs,kg CO2e,0.000687887,5.05E-05
+246,Fur,None,None,Tanning - RH_WB,New Zealand,GHGs,kg CO2e,0.860990449,0.06326324
+247,Leather,deer,None,Tanning - RH_WB,New Zealand,GHGs,kg CO2e,0.723281711,0.053144776
+248,Leather,sheep/lamb,conventional,Tanning - RH_WB - Metal-free,New Zealand,GHGs,kg CO2e,0.627541472,0.046110043
+249,Animal Fibers,wool,organic,Washing,New Zealand,GHGs,kg CO2e,2.279511304,0.167492299
+250,Leather,beef/calf,conventional,Animal rearing,New Zealand,GHGs,kg CO2e,21.84683959,1.605246437
+251,Animal Fibers,wool,restorative grazing,Animal rearing,New Zealand,GHGs,kg CO2e,147.0026257,10.80135368
+252,Leather,goat,conventional,Tanning - WB_FL,Niger,GHGs,kg CO2e,1.054171113,0.07745763
+253,Leather,goat,conventional,Abattoir,Nigeria,GHGs,kg CO2e,0.503514398,0.03699687
+254,Leather,goat,conventional,Tanning - RH_WB - Metal-free,Nigeria,GHGs,kg CO2e,1.546629272,0.113642118
+255,Leather,goat,conventional,Tanning - WB_FL,Nigeria,GHGs,kg CO2e,1.054171113,0.07745763
+256,Leather,sheep/lamb,conventional,Tanning - WB_FL,Nigeria,GHGs,kg CO2e,1.054171113,0.07745763
+257,Leather,sheep/lamb,conventional,Animal rearing,Nigeria,GHGs,kg CO2e,33.64593171,2.472211679
+258,Leather,sheep/goat,conventional,Animal rearing,Nigeria,GHGs,kg CO2e,33.64593171,2.472211679
+259,Leather,beef/calf,conventional,Tanning - RH_WB - Metal-free,Norway,GHGs,kg CO2e,0.63735214,0.046830904
+260,Plant Fibers,cotton,conventional,Ginning,Pakistan,GHGs,kg CO2e,0.771245625,0.056669034
+261,Synthetic Fibers,polyester,conventional,Extraction,Pakistan,GHGs,kg CO2e,0.190616152,0.014005957
+262,Animal Fibers,wool,conventional,Washing,Peru,GHGs,kg CO2e,0.904684438,0.066473755
+263,Plant Fibers,cotton,conventional,Crop farming,Peru,GHGs,kg CO2e,3.147489347,0.231268969
+264,Leather,sheep/goat,conventional,Animal rearing,Peru,GHGs,kg CO2e,33.64593171,2.472211679
+265,Leather,beef/calf,conventional,Tanning - RH_WB,Poland,GHGs,kg CO2e,0.866120644,0.063640193
+266,Synthetic Fibers,elastic,None,Processing,Poland,GHGs,kg CO2e,1.246312904,0.091575687
+267,Animal Fibers,wool,conventional,Animal rearing,Poland,GHGs,kg CO2e,124.0083237,9.111794819
+268,Synthetic Fibers,elastic,None,Extraction,Poland,GHGs,kg CO2e,0.069097484,0.005077095
+269,Synthetic Fibers,polyester,conventional,Extraction,Poland,GHGs,kg CO2e,0.20320882,0.014931232
+270,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.477701587,0.329009351
+271,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.477701587,0.329009351
+272,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.477701587,0.329009351
+273,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.477701587,0.329009351
+274,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.477701587,0.329009351
+275,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.280155473,0.314494199
+276,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.280155473,0.314494199
+277,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,9.122977614,0.670331617
+278,Leather,sheep/lamb,conventional,Tanning - RH_WB,Portugal,GHGs,kg CO2e,0.866120644,0.063640193
+279,Animal Fibers,wool,conventional,Animal rearing,Portugal,GHGs,kg CO2e,127.1695702,9.344074625
+280,Animal Fibers,wool,conventional,Washing,Romania,GHGs,kg CO2e,1.193196259,0.08767282
+281,Leather,sheep/lamb,conventional,Tanning - RH_WB,Saudi Arabia,GHGs,kg CO2e,0.866120644,0.063640193
+282,Leather,sheep/lamb,conventional,Tanning - WB_FL,Saudi Arabia,GHGs,kg CO2e,0.658248869,0.048366339
+283,Leather,sheep/lamb,conventional,Animal rearing,Saudi Arabia,GHGs,kg CO2e,14.99835203,1.102038172
+284,Leather,sheep/goat,conventional,Animal rearing,Saudi Arabia,GHGs,kg CO2e,33.64593171,2.472211679
+285,Leather,goat,conventional,Animal rearing,Saudi Arabia,GHGs,kg CO2e,79.49785891,5.841286757
+286,Leather,goat,conventional,Animal rearing,Senegal,GHGs,kg CO2e,79.49785891,5.841286757
+287,Leather,beef/calf,conventional,Abattoir,Serbia,GHGs,kg CO2e,0.513481904,0.037729256
+288,Leather,beef/calf,conventional,Tanning - RH_WB,Serbia,GHGs,kg CO2e,0.866120644,0.063640193
+289,Leather,beef/calf,conventional,Tanning - RH_WB,Slovenia,GHGs,kg CO2e,0.866120644,0.063640193
+290,Leather,beef/calf,conventional,Tanning - RH_WB - Metal-free,Slovenia,GHGs,kg CO2e,0.63735214,0.046830904
+291,Synthetic Fibers,elastic,None,Processing,Slovenia,GHGs,kg CO2e,1.246312904,0.091575687
+292,Synthetic Fibers,elastic,None,Extraction,Slovenia,GHGs,kg CO2e,0.069097484,0.005077095
+293,Fur,None,None,Abattoir,South Africa,GHGs,kg CO2e,1.82541288,0.134126381
+294,Leather,beef/calf,conventional,Abattoir,South Africa,GHGs,kg CO2e,0.513481904,0.037729256
+295,Leather,sheep/lamb,conventional,Tanning - RH_WB,South Africa,GHGs,kg CO2e,0.860990449,0.06326324
+296,Animal Fibers,mohair,conventional,Washing,South Africa,GHGs,kg CO2e,3.459091113,0.25416462
+297,Animal Fibers,mohair,restorative grazing,Washing,South Africa,GHGs,kg CO2e,3.459091113,0.25416462
+298,Plant Fibers,cotton,conventional,Ginning,South Africa,GHGs,kg CO2e,1.114633329,0.08190023
+299,Animal Fibers,mohair,conventional,Animal rearing,South Africa,GHGs,kg CO2e,305.118994,22.41931498
+300,Fur,None,None,Animal rearing,South Africa,GHGs,kg CO2e,158.742895,11.66399678
+301,Animal Fibers,wool,conventional,Animal rearing,South Africa,GHGs,kg CO2e,46.41404784,3.410378174
+302,Synthetic Fibers,polyester,conventional,Extraction,South Africa,GHGs,kg CO2e,0.20320882,0.014931232
+303,Fur,lamb,None,Abattoir,Spain,GHGs,kg CO2e,1.82541288,0.134126381
+304,Leather,goat,conventional,Abattoir,Spain,GHGs,kg CO2e,0.54333699,0.039922926
+305,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.464513843,0.328040352
+306,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.464513843,0.328040352
+307,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.464513843,0.328040352
+308,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.464513843,0.328040352
+309,Plant Fibers,linen,organic,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.264780493,0.313364488
+310,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,9.092227655,0.668072194
+311,Leather,sheep/goat,conventional,Tanning - RH_WB,Spain,GHGs,kg CO2e,1.363724355,0.100202762
+312,Fur,None,None,Tanning - WB_FL,Spain,GHGs,kg CO2e,1.054171113,0.07745763
+313,Leather,beef/calf,conventional,Tanning - RH_WB - Metal-free,Spain,GHGs,kg CO2e,0.63735214,0.046830904
+314,Leather,goat,conventional,Tanning - RH_WB,Spain,GHGs,kg CO2e,0.866120644,0.063640193
+315,Leather,sheep/lamb,conventional,Tanning - RH_WB - Metal-free,Spain,GHGs,kg CO2e,0.63735214,0.046830904
+316,Plant Fibers,cotton,organic,Ginning,Spain,GHGs,kg CO2e,0.490861255,0.036067152
+317,Synthetic Fibers,acrylic,None,Processing,Spain,GHGs,kg CO2e,3.415741349,0.250979397
+318,Fur,lamb,None,Animal rearing,Spain,GHGs,kg CO2e,114.488893,8.412332908
+319,Plant Fibers,cotton,organic,Crop farming,Spain,GHGs,kg CO2e,1.447238862,0.106339181
+320,Plant Fibers,cotton,conventional,Crop farming,Spain,GHGs,kg CO2e,2.278506704,0.167418484
+321,Leather,sheep/goat,conventional,Animal rearing,Spain,GHGs,kg CO2e,33.64593171,2.472211679
+322,Synthetic Fibers,nylon,conventional,Extraction,Spain,GHGs,kg CO2e,0.951478599,0.069912063
+323,Leather,sheep/lamb,conventional,Abattoir,Switzerland,GHGs,kg CO2e,0.454717668,0.033411419
+324,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.106828963,0.301758638
+325,Animal Fibers,cashmere,regenerated,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.106828963,0.301758638
+326,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.106828963,0.301758638
+327,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.106828963,0.301758638
+328,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,3.847772268,0.282723856
+329,Plant Fibers,cotton,recycled,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,3.847772268,0.282723856
+330,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,3.847772268,0.282723856
+331,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,3.847772268,0.282723856
+332,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.129105602,0.303395465
+333,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.129105602,0.303395465
+334,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.129105602,0.303395465
+335,Leather,beef/calf,conventional,Tanning - RH_WB,Switzerland,GHGs,kg CO2e,0.866120644,0.063640193
+336,Synthetic Fibers,elastic,None,Processing,Switzerland,GHGs,kg CO2e,1.246312904,0.091575687
+337,Synthetic Fibers,polyester,conventional,Extraction,Switzerland,GHGs,kg CO2e,0.20320882,0.014931232
+338,Synthetic Fibers,acrylic,None,Processing,Taiwan,GHGs,kg CO2e,7.767279167,0.570718577
+339,Synthetic Fibers,elastic,None,Processing,Taiwan,GHGs,kg CO2e,2.778000625,0.204119941
+340,Synthetic Fibers,neoprene,None,Processing,Taiwan,GHGs,kg CO2e,4.138377633,0.304076749
+341,Synthetic Fibers,polyester,recycled,Processing,Taiwan,GHGs,kg CO2e,8.290411805,0.609156943
+342,Synthetic Fibers,nylon,conventional,Processing,Taiwan,GHGs,kg CO2e,41.22031591,3.028756859
+343,Animal Fibers,wool,conventional,Washing,Thailand,GHGs,kg CO2e,0.938288827,0.068942915
+344,Synthetic Fibers,polyester,conventional,Processing,Thailand,GHGs,kg CO2e,5.731787549,0.421156182
+345,Synthetic Fibers,nylon,conventional,Processing,Thailand,GHGs,kg CO2e,24.01170303,1.764314723
+346,Plant Fibers,cotton,conventional,Crop farming,Thailand,GHGs,kg CO2e,4.175348067,0.306793236
+347,Animal Fibers,wool,conventional,Animal rearing,Thailand,GHGs,kg CO2e,127.2065221,9.34678975
+348,Synthetic Fibers,elastic,None,Extraction,Thailand,GHGs,kg CO2e,0.069097484,0.005077095
+349,Synthetic Fibers,nylon,conventional,Extraction,Thailand,GHGs,kg CO2e,0.951478599,0.069912063
+350,Leather,sheep/lamb,conventional,Tanning - RH_WB,Tunisia,GHGs,kg CO2e,0.860990449,0.06326324
+351,Leather,sheep/lamb,conventional,Tanning - WB_FL,Tunisia,GHGs,kg CO2e,0.005130195,0.000376953
+352,Plant Fibers,cotton,conventional,Crop farming,Tunisia,GHGs,kg CO2e,0.988590674,0.072638958
+353,Leather,sheep/lamb,conventional,Abattoir,Turkey,GHGs,kg CO2e,0.454717668,0.033411419
+354,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.667667695,0.342967545
+355,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.667667695,0.342967545
+356,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.949001029,0.363639154
+357,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.949001029,0.363639154
+358,Synthetic Fibers,nylon,Econyl,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.949001029,0.363639154
+359,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,9.898002058,0.727278308
+360,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.949001029,0.363639154
+361,Leather,beef/calf,conventional,Tanning - RH_WB,Turkey,GHGs,kg CO2e,0.866120644,0.063640193
+362,Leather,beef/calf,conventional,Tanning - WB_FL - Metal-free,Turkey,GHGs,kg CO2e,0.953909563,0.070090684
+363,Leather,beef/calf,salpa,Tanning - WB_FL,Turkey,GHGs,kg CO2e,0.001756366,0.000129053
+364,Animal Fibers,wool,conventional,Washing,Turkey,GHGs,kg CO2e,0.931784534,0.068464997
+365,Plant Fibers,cotton,conventional,Ginning,Turkey,GHGs,kg CO2e,0.53856541,0.039572324
+366,Synthetic Fibers,polyester,conventional,Processing,Turkey,GHGs,kg CO2e,3.794428291,0.278804285
+367,Leather,sheep/lamb,conventional,Animal rearing,Turkey,GHGs,kg CO2e,11.53962627,0.847900397
+368,Plant Fibers,linen,conventional,Crop farming,Turkey,GHGs,kg CO2e,0.971811197,0.071406047
+369,Animal Fibers,mohair,conventional,Animal rearing,Turkey,GHGs,kg CO2e,179.7295427,13.20603865
+370,Plant Fibers,cotton,organic,Crop farming,Turkey,GHGs,kg CO2e,1.41254755,0.103790157
+371,Synthetic Fibers,polyester,conventional,Extraction,Turkey,GHGs,kg CO2e,0.20320882,0.014931232
+372,Leather,beef/calf,conventional,Animal rearing,Uganda,GHGs,kg CO2e,26.74785779,1.965359943
+373,Leather,sheep/lamb,conventional,Abattoir,United Kingdom,GHGs,kg CO2e,0.454717668,0.033411419
+374,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.651222459,0.341759194
+375,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.651222459,0.341759194
+376,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.482455417,0.32935865
+377,Plant Fibers,cotton,recycled,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.482455417,0.32935865
+378,Plant Fibers,linen,organic,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.482455417,0.32935865
+379,Synthetic Fibers,neoprene,None,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.763788751,0.350030259
+380,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.763788751,0.350030259
+381,Leather,beef/calf,conventional,Tanning - WB_FL,United Kingdom,GHGs,kg CO2e,1.054171113,0.07745763
+382,Synthetic Fibers,acrylic,None,Processing,United Kingdom,GHGs,kg CO2e,3.415741349,0.250979397
+383,Synthetic Fibers,elastic,None,Processing,United Kingdom,GHGs,kg CO2e,1.246312904,0.091575687
+384,Synthetic Fibers,polyester,conventional,Processing,United Kingdom,GHGs,kg CO2e,3.794428291,0.278804285
+385,Animal Fibers,wool,conventional,Animal rearing,United Kingdom,GHGs,kg CO2e,127.1854112,9.345238582
+386,Synthetic Fibers,acrylic,None,Extraction,United Kingdom,GHGs,kg CO2e,0.183277929,0.013466764
+387,Synthetic Fibers,polyester,conventional,Extraction,United Kingdom,GHGs,kg CO2e,0.20320882,0.014931232
+388,Leather,beef/calf,salpa,Abattoir,United States,GHGs,kg CO2e,0.000855518,6.29E-05
+389,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.899581735,0.433485243
+390,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.899581735,0.433485243
+391,Animal Fibers,mohair,restorative grazing,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.899581735,0.433485243
+392,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.899581735,0.433485243
+393,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.899581735,0.433485243
+394,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.899581735,0.433485243
+395,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.666345878,0.416347705
+396,Animal Fibers,wool,conventional,Washing,United States,GHGs,kg CO2e,0.930689117,0.068384509
+397,Plant Fibers,cotton,organic,Ginning,United States,GHGs,kg CO2e,0.661098042,0.048575689
+398,Leather,beef/calf,conventional,Animal rearing,United States,GHGs,kg CO2e,28.89775637,2.123328652
+399,Leather,beef/calf,salpa,Animal rearing,United States,GHGs,kg CO2e,0.048146881,0.003537702
+400,Synthetic Fibers,acrylic,None,Extraction,United States,GHGs,kg CO2e,0.183277929,0.013466764
+401,Animal Fibers,wool,restorative grazing,Washing,Uruguay,GHGs,kg CO2e,1.555016136,0.114258362
+402,Animal Fibers,wool,restorative grazing,Animal rearing,Uruguay,GHGs,kg CO2e,147.0166937,10.80238735
+403,Synthetic Fibers,polyester,conventional,Processing,Vietnam,GHGs,kg CO2e,13.31085777,0.978045677
+404,Synthetic Fibers,nylon,conventional,Extraction,Vietnam,GHGs,kg CO2e,0.951478599,0.069912063
+405,Plant Fibers,cotton,organic,Ginning,Zimbabwe,GHGs,kg CO2e,0.683226927,0.050201659
+406,Synthetic Fibers,nylon,conventional,Processing,Afghanistan,GHGs,kg CO2e,67.8822411,4.987802708
+407,Synthetic Fibers,nylon,conventional,Extraction,Afghanistan,GHGs,kg CO2e,0.951478599,0.069912063
+408,Leather,beef/calf,conventional,Tanning - RH_WB,Albania,GHGs,kg CO2e,0.866120644,0.063640193
+409,Leather,beef/calf,conventional,Animal rearing,Albania,GHGs,kg CO2e,17.01311327,1.250077356
+410,Leather,sheep/lamb,conventional,Abattoir,Algeria,GHGs,kg CO2e,0.589709698,0.043330267
+411,Leather,beef/calf,conventional,Tanning - RH_WB,Algeria,GHGs,kg CO2e,0.866120644,0.063640193
+412,Leather,beef/calf,conventional,Animal rearing,Algeria,GHGs,kg CO2e,19.65259545,1.444019338
+413,Fur,None,None,Abattoir,Argentina,GHGs,kg CO2e,1.82541288,0.134126381
+414,Animal Fibers,wool,regenerated,Washing,Argentina,GHGs,kg CO2e,2.787727128,0.204834618
+415,Plant Fibers,cotton,conventional,Crop farming,Argentina,GHGs,kg CO2e,4.475720797,0.328863808
+416,Animal Fibers,wool,organic,Animal rearing,Argentina,GHGs,kg CO2e,126.2845052,9.279042454
+417,Animal Fibers,wool,regenerated,Animal rearing,Argentina,GHGs,kg CO2e,66.23373692,4.866675098
+418,Leather,beef/calf,conventional,Tanning - RH_WB - Metal-free,Australia,GHGs,kg CO2e,0.781991018,0.057458576
+419,Leather,kangaroo,None,Tanning - RH_WB,Australia,GHGs,kg CO2e,0.866120644,0.063640193
+420,Animal Fibers,wool,conventional,Washing,Australia,GHGs,kg CO2e,0.96320487,0.070773678
+421,Animal Fibers,mohair,conventional,Animal rearing,Australia,GHGs,kg CO2e,199.2414916,14.63972367
+422,Leather,beef/calf,conventional,Animal rearing,Australia,GHGs,kg CO2e,26.64946179,1.958130072
+423,Plant Fibers,cotton,conventional,Crop farming,Australia,GHGs,kg CO2e,4.293075705,0.315443543
+424,Animal Fibers,wool,regenerated,Animal rearing,Australia,GHGs,kg CO2e,67.94813243,4.992644224
+425,Animal Fibers,wool,restorative grazing,Animal rearing,Australia,GHGs,kg CO2e,152.8916864,11.23406586
+426,Leather,sheep/goat,conventional,Animal rearing,Australia,GHGs,kg CO2e,33.64593171,2.472211679
+427,Leather,beef/calf,conventional,Abattoir,Austria,GHGs,kg CO2e,0.513481904,0.037729256
+428,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.249418352,0.312235719
+429,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.249418352,0.312235719
+430,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.014010629,0.294938599
+431,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.014010629,0.294938599
+432,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.295343963,0.315610208
+433,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.295343963,0.315610208
+434,Synthetic Fibers,polyester,conventional,Processing,Austria,GHGs,kg CO2e,3.794428291,0.278804285
+435,Synthetic Fibers,polyester,conventional,Extraction,Austria,GHGs,kg CO2e,0.20320882,0.014931232
+436,Leather,beef/calf,conventional,Tanning - RH_WB,Bangladesh,GHGs,kg CO2e,0.866120644,0.063640193
+437,Leather,beef/calf,conventional,Tanning - WB_FL,Bangladesh,GHGs,kg CO2e,1.054171113,0.07745763
+438,Leather,beef/calf,conventional,Animal rearing,Bangladesh,GHGs,kg CO2e,19.68148811,1.446142292
+439,Plant Fibers,cotton,conventional,Crop farming,Bangladesh,GHGs,kg CO2e,5.978503118,0.439284172
+440,Leather,goat,conventional,Animal rearing,Bangladesh,GHGs,kg CO2e,79.49785891,5.841286757
+441,Leather,beef/calf,conventional,Animal rearing,Belarus,GHGs,kg CO2e,17.01311327,1.250077356
+442,Synthetic Fibers,elastic,None,Extraction,Belarus,GHGs,kg CO2e,0.069097484,0.005077095
+443,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.093422285,0.300773552
+444,Animal Fibers,cashmere,regenerated,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.093422285,0.300773552
+445,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.315838359,0.317116081
+446,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.091446637,0.300628386
+447,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.091446637,0.300628386
+448,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.372779971,0.321299996
+449,Synthetic Fibers,nylon,Econyl,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.372779971,0.321299996
+450,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,8.745559942,0.642599992
+451,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.372779971,0.321299996
+452,Synthetic Fibers,nylon,Econyl,Processing,Belgium,GHGs,kg CO2e,3.483434116,0.255953278
+453,Leather,beef/calf,conventional,Animal rearing,Belgium,GHGs,kg CO2e,16.94109108,1.24478536
+454,Plant Fibers,linen,conventional,Crop farming,Belgium,GHGs,kg CO2e,0.913931953,0.067153238
+455,Synthetic Fibers,polyester,conventional,Extraction,Belgium,GHGs,kg CO2e,0.20320882,0.014931232
+456,Animal Fibers,wool,conventional,Washing,Bolivia,GHGs,kg CO2e,1.215371932,0.089302229
+457,Animal Fibers,wool,conventional,Animal rearing,Bolivia,GHGs,kg CO2e,46.32624636,3.40392676
+458,Plant Fibers,cotton,conventional,Ginning,Brazil,GHGs,kg CO2e,0.566148217,0.041599033
+459,Synthetic Fibers,elastic,None,Processing,Brazil,GHGs,kg CO2e,1.082697573,0.079553677
+460,Plant Fibers,cotton,conventional,Crop farming,Brazil,GHGs,kg CO2e,3.449588848,0.253466419
+461,Leather,beef/calf,conventional,Animal rearing,Brazil,GHGs,kg CO2e,48.20603294,3.542048373
+462,Synthetic Fibers,elastic,None,Extraction,Brazil,GHGs,kg CO2e,0.069097484,0.005077095
+463,Leather,goat,conventional,Tanning - RH_WB - Metal-free,Bulgaria,GHGs,kg CO2e,0.63735214,0.046830904
+464,Synthetic Fibers,elastic,None,Processing,Bulgaria,GHGs,kg CO2e,1.246312904,0.091575687
+465,Synthetic Fibers,nylon,conventional,Processing,Bulgaria,GHGs,kg CO2e,18.07025374,1.327753166
+466,Leather,goat,conventional,Animal rearing,Bulgaria,GHGs,kg CO2e,175.1026243,12.86606525
+467,Synthetic Fibers,nylon,conventional,Extraction,Bulgaria,GHGs,kg CO2e,0.951478599,0.069912063
+468,Plant Fibers,cotton,organic,Crop farming,Cameroon,GHGs,kg CO2e,0.810069807,0.059521729
+469,Plant Fibers,cotton,conventional,Ginning,Central African Republic,GHGs,kg CO2e,0.806959808,0.059293215
+470,Plant Fibers,cotton,organic,Crop farming,Central African Republic,GHGs,kg CO2e,3.048364057,0.223985512
+471,Leather,beef/calf,conventional,Tanning - RH_WB,Chile,GHGs,kg CO2e,0.866120644,0.063640193
+472,Animal Fibers,wool,restorative grazing,Animal rearing,Chile,GHGs,kg CO2e,147.594166,10.84481845
+473,Leather,beef/calf,conventional,Animal rearing,Chile,GHGs,kg CO2e,48.13254504,3.536648682
+474,Leather,sheep/lamb,conventional,Abattoir,China,GHGs,kg CO2e,0.431522552,0.031707105
+475,Leather,beef/calf,salpa,Abattoir,China,GHGs,kg CO2e,0.001279778,9.40E-05
+476,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.02653711,1.030631851
+477,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,13.24579397,0.973264965
+478,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.69694078,1.079891291
+479,Fur,None,None,Tanning - RH_WB,China,GHGs,kg CO2e,0.860990449,0.06326324
+480,Animal Fibers,cashmere,regenerated,Washing,China,GHGs,kg CO2e,2.572938642,0.189052543
+481,Animal Fibers,cashmere,restorative grazing,Washing,China,GHGs,kg CO2e,4.981568208,0.366032102
+482,Animal Fibers,wool,organic,Washing,China,GHGs,kg CO2e,1.542126079,0.113311236
+483,Animal Fibers,wool,regenerated,Washing,China,GHGs,kg CO2e,0.827374566,0.060793236
+484,Animal Fibers,wool,restorative grazing,Washing,China,GHGs,kg CO2e,1.549299433,0.113838314
+485,Plant Fibers,cotton,organic,Ginning,China,GHGs,kg CO2e,0.854748092,0.062804568
+486,Plant Fibers,linen,conventional,Ginning,China,GHGs,kg CO2e,0.297690636,0.021873499
+487,Leather,sheep/lamb,conventional,Animal rearing,China,GHGs,kg CO2e,16.82455656,1.236222721
+488,Leather,beef/calf,conventional,Animal rearing,China,GHGs,kg CO2e,20.91675191,1.536906121
+489,Plant Fibers,cotton,conventional,Crop farming,China,GHGs,kg CO2e,2.100063583,0.154306968
+490,Plant Fibers,cotton,organic,Crop farming,China,GHGs,kg CO2e,1.256817635,0.092347546
+491,Animal Fibers,wool,regenerated,Animal rearing,China,GHGs,kg CO2e,68.06704602,5.001381672
+492,Animal Fibers,silk,organic,Silk production,China,GHGs,kg CO2e,20.660241,1.518058395
+493,Leather,sheep/goat,conventional,Animal rearing,China,GHGs,kg CO2e,33.64593171,2.472211679
+494,Animal Fibers,cashmere,organic,Animal rearing,China,GHGs,kg CO2e,2766.411057,203.2683709
+495,Synthetic Fibers,polyester,conventional,Extraction,China,GHGs,kg CO2e,0.415464433,0.030527198
+496,Synthetic Fibers,nylon,conventional,Extraction,China,GHGs,kg CO2e,0.951478599,0.069912063
+497,Leather,beef/calf,conventional,Abattoir,Croatia,GHGs,kg CO2e,0.513481904,0.037729256
+498,Synthetic Fibers,nylon,conventional,Processing,Croatia,GHGs,kg CO2e,18.07025374,1.327753166
+499,Synthetic Fibers,nylon,conventional,Extraction,Croatia,GHGs,kg CO2e,0.951478599,0.069912063
+500,Fur,mink,None,Tanning - RH_WB,Denmark,GHGs,kg CO2e,0.866120644,0.063640193
+501,Plant Fibers,cotton,conventional,Crop farming,Estonia,GHGs,kg CO2e,2.305574473,0.16940735
+502,Leather,beef/calf,conventional,Abattoir,Ethiopia,GHGs,kg CO2e,0.399722842,0.029370549
+503,Fur,mink,None,Tanning - RH_WB,Finland,GHGs,kg CO2e,0.866120644,0.063640193
+504,Leather,beef/calf,conventional,Animal rearing,Finland,GHGs,kg CO2e,16.95107375,1.24551886
+505,Fur,mink,None,Animal rearing,Finland,GHGs,kg CO2e,306.8211074,22.54438164
+506,Fur,lamb,None,Abattoir,France,GHGs,kg CO2e,1.82541288,0.134126381
+507,Leather,sheep/lamb,conventional,Abattoir,France,GHGs,kg CO2e,0.454717668,0.033411419
+508,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.135766341,0.303884878
+509,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,3.881509016,0.28520274
+510,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.16284235,0.30587435
+511,Synthetic Fibers,nylon,Econyl,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.16284235,0.30587435
+512,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.16284235,0.30587435
+513,Leather,goat,conventional,Tanning - WB_FL,France,GHGs,kg CO2e,1.054171113,0.07745763
+514,Leather,sheep/lamb,conventional,Tanning - RH_WB,France,GHGs,kg CO2e,0.866120644,0.063640193
+515,Leather,sheep/lamb,conventional,Tanning - WB_FL,France,GHGs,kg CO2e,1.054171113,0.07745763
+516,Plant Fibers,hemp,None,Ginning,France,GHGs,kg CO2e,0.000160365,1.18E-05
+517,Leather,sheep/lamb,conventional,Animal rearing,France,GHGs,kg CO2e,11.37157968,0.835552789
+518,Leather,beef/calf,conventional,Animal rearing,France,GHGs,kg CO2e,16.88926613,1.240977404
+519,Synthetic Fibers,nylon,conventional,Extraction,France,GHGs,kg CO2e,0.951478599,0.069912063
+520,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.709561398,0.34604578
+521,Animal Fibers,cashmere,regenerated,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.709561398,0.34604578
+522,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.709561398,0.34604578
+523,Animal Fibers,mohair,restorative grazing,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.709561398,0.34604578
+524,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.709561398,0.34604578
+525,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.709561398,0.34604578
+526,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.709561398,0.34604578
+527,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.709561398,0.34604578
+528,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.550470083,0.334356183
+529,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.550470083,0.334356183
+530,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.550470083,0.334356183
+531,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.550470083,0.334356183
+532,Plant Fibers,linen,organic,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.550470083,0.334356183
+533,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.831803417,0.355027792
+534,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.831803417,0.355027792
+535,Animal Fibers,mohair,conventional,Washing,Germany,GHGs,kg CO2e,1.520068042,0.111690471
+536,Animal Fibers,wool,conventional,Washing,Germany,GHGs,kg CO2e,0.922751245,0.067801255
+537,Synthetic Fibers,acrylic,None,Processing,Germany,GHGs,kg CO2e,3.415741349,0.250979397
+538,Synthetic Fibers,elastic,None,Processing,Germany,GHGs,kg CO2e,1.246312904,0.091575687
+539,Synthetic Fibers,nylon,conventional,Processing,Germany,GHGs,kg CO2e,18.07025374,1.327753166
+540,Animal Fibers,wool,conventional,Animal rearing,Germany,GHGs,kg CO2e,125.8174165,9.244722042
+541,Animal Fibers,wool,regenerated,Animal rearing,Germany,GHGs,kg CO2e,66.19796795,4.864046891
+542,Leather,goat,conventional,Abattoir,Greece,GHGs,kg CO2e,0.787494847,0.057862983
+543,Leather,sheep/lamb,conventional,Tanning - RH_WB,Greece,GHGs,kg CO2e,0.866120644,0.063640193
+544,Leather,sheep/lamb,conventional,Tanning - WB_FL,Greece,GHGs,kg CO2e,0.658248869,0.048366339
+545,Plant Fibers,cotton,conventional,Crop farming,Greece,GHGs,kg CO2e,2.422473167,0.177996749
+546,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,Hungary,GHGs,kg CO2e,4.547201382,0.334116007
+547,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,Hungary,GHGs,kg CO2e,4.361182064,0.320447813
+548,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,Hungary,GHGs,kg CO2e,9.285030796,0.682238845
+549,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,Hungary,GHGs,kg CO2e,4.642515398,0.341119422
+550,Fur,None,None,Abattoir,Iceland,GHGs,kg CO2e,1.82541288,0.134126381
+551,Leather,beef/calf,conventional,Abattoir,India,GHGs,kg CO2e,0.697972922,0.051285155
+552,Leather,sheep/goat,conventional,Abattoir,India,GHGs,kg CO2e,0.740974023,0.054444759
+553,Animal Fibers,cashmere,regenerated,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.955861953,0.731529696
+554,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.955861953,0.731529696
+555,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.955861953,0.731529696
+556,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.955861953,0.731529696
+557,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.722162834,0.71435812
+558,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.722162834,0.71435812
+559,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.722162834,0.71435812
+560,Leather,sheep/goat,conventional,Tanning - RH_WB,India,GHGs,kg CO2e,2.46742562,0.181299733
+561,Leather,sheep/lamb,conventional,Tanning - WB_FL - Metal-free,India,GHGs,kg CO2e,1.883717293,0.138410431
+562,Plant Fibers,cotton,conventional,Ginning,India,GHGs,kg CO2e,1.031211519,0.075770622
+563,Synthetic Fibers,neoprene,None,Processing,India,GHGs,kg CO2e,4.969233364,0.365125771
+564,Synthetic Fibers,nylon,conventional,Processing,India,GHGs,kg CO2e,49.58108904,3.64308376
+565,Plant Fibers,linen,conventional,Crop farming,India,GHGs,kg CO2e,1.460520591,0.107315086
+566,Leather,beef/calf,conventional,Animal rearing,India,GHGs,kg CO2e,18.99453638,1.395666944
+567,Leather,deer,None,Animal rearing,India,GHGs,kg CO2e,15.33609917,1.126854914
+568,Plant Fibers,cotton,conventional,Crop farming,India,GHGs,kg CO2e,5.769776074,0.423947475
+569,Leather,goat,conventional,Animal rearing,India,GHGs,kg CO2e,79.49785891,5.841286757
+570,Synthetic Fibers,neoprene,None,Extraction,India,GHGs,kg CO2e,0.095969297,0.007051563
+571,Synthetic Fibers,polyester,conventional,Extraction,India,GHGs,kg CO2e,0.194238137,0.014272091
+572,Synthetic Fibers,polyester,conventional,Processing,Indonesia,GHGs,kg CO2e,7.908579813,0.581100965
+573,Synthetic Fibers,polyester,recycled,Processing,Indonesia,GHGs,kg CO2e,6.66839077,0.489975242
+574,Synthetic Fibers,acrylic,None,Extraction,Indonesia,GHGs,kg CO2e,0.183277929,0.013466764
+575,Synthetic Fibers,nylon,conventional,Extraction,Indonesia,GHGs,kg CO2e,0.951478599,0.069912063
+576,Leather,sheep/lamb,conventional,Abattoir,Iraq,GHGs,kg CO2e,0.152299468,0.011190551
+577,Synthetic Fibers,nylon,conventional,Extraction,Ireland,GHGs,kg CO2e,0.951478599,0.069912063
+578,Synthetic Fibers,nylon,conventional,Processing,Israel,GHGs,kg CO2e,17.60881494,1.293847896
+579,Leather,sheep/lamb,conventional,Animal rearing,Israel,GHGs,kg CO2e,13.03847936,0.958032051
+580,Synthetic Fibers,nylon,conventional,Extraction,Israel,GHGs,kg CO2e,0.951478599,0.069912063
+581,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.542953634,0.333803894
+582,Animal Fibers,cashmere,regenerated,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.542953634,0.333803894
+583,Animal Fibers,mohair,restorative grazing,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.542953634,0.333803894
+584,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.542953634,0.333803894
+585,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.356229812,0.320083935
+586,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.356229812,0.320083935
+587,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.637563146,0.340755544
+588,Fur,fox,None,Tanning - RH_WB,Italy,GHGs,kg CO2e,0.866120644,0.063640193
+589,Fur,lamb,None,Tanning - WB_FL,Italy,GHGs,kg CO2e,1.054171113,0.07745763
+590,Leather,goat,conventional,Tanning - RH_WB - Metal-free,Italy,GHGs,kg CO2e,0.63735214,0.046830904
+591,Leather,kangaroo,None,Tanning - WB_FL,Italy,GHGs,kg CO2e,1.049040918,0.077080677
+592,Leather,sheep/lamb,conventional,Tanning - RH_WB,Italy,GHGs,kg CO2e,0.866120644,0.063640193
+593,Leather,sheep/lamb,conventional,Tanning - WB_FL - Metal-free,Italy,GHGs,kg CO2e,0.953909563,0.070090684
+594,Leather,sheep/goat,conventional,Tanning - RH_WB - Metal-free,Italy,GHGs,kg CO2e,0.63735214,0.046830904
+595,Animal Fibers,wool,regenerated,Washing,Italy,GHGs,kg CO2e,1.246771642,0.091609394
+596,Synthetic Fibers,polyester,conventional,Processing,Italy,GHGs,kg CO2e,3.794428291,0.278804285
+597,Leather,sheep/lamb,conventional,Animal rearing,Italy,GHGs,kg CO2e,11.47305437,0.843008874
+598,Plant Fibers,hemp,None,Crop farming,Italy,GHGs,kg CO2e,1.772987863,0.130274333
+599,Leather,beef/calf,salpa,Animal rearing,Italy,GHGs,kg CO2e,0.028128264,0.002066788
+600,Animal Fibers,wool,regenerated,Animal rearing,Italy,GHGs,kg CO2e,66.18938948,4.863416569
+601,Animal Fibers,cashmere,regenerated,Animal rearing,Italy,GHGs,kg CO2e,898.432524,66.01438172
+602,Leather,goat,conventional,Animal rearing,Italy,GHGs,kg CO2e,175.1026243,12.86606525
+603,Synthetic Fibers,polyester,conventional,Extraction,Italy,GHGs,kg CO2e,0.20320882,0.014931232
+604,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.607281452,0.412007812
+605,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.607281452,0.412007812
+606,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.607281452,0.412007812
+607,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.350477029,0.39313852
+608,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.350477029,0.39313852
+609,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.350477029,0.39313852
+610,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,11.4965087,0.844732235
+611,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.74825435,0.422366117
+612,Synthetic Fibers,polyester,conventional,Processing,Japan,GHGs,kg CO2e,4.685978221,0.344312953
+613,Plant Fibers,hemp,None,Crop farming,Japan,GHGs,kg CO2e,1.845608404,0.135610293
+614,Leather,sheep/lamb,conventional,Tanning - RH_WB,Jordan,GHGs,kg CO2e,0.860990449,0.06326324
+615,Leather,beef/calf,conventional,Abattoir,Kenya,GHGs,kg CO2e,0.513481904,0.037729256
+616,Leather,sheep/lamb,conventional,Abattoir,Lebanon,GHGs,kg CO2e,0.551120852,0.040494863
+617,Plant Fibers,linen,conventional,Ginning,Lithuania,GHGs,kg CO2e,0.297600062,0.021866844
+618,Synthetic Fibers,acrylic,None,Processing,Lithuania,GHGs,kg CO2e,3.415741349,0.250979397
+619,Plant Fibers,linen,conventional,Crop farming,Lithuania,GHGs,kg CO2e,0.930077445,0.068339565
+620,Synthetic Fibers,polyester,conventional,Extraction,Lithuania,GHGs,kg CO2e,0.20320882,0.014931232
+621,Synthetic Fibers,nylon,conventional,Extraction,Lithuania,GHGs,kg CO2e,0.951478599,0.069912063
+622,Plant Fibers,cotton,conventional,Crop farming,Mexico,GHGs,kg CO2e,3.630626495,0.266768574
+623,Synthetic Fibers,acrylic,None,Processing,Moldova,GHGs,kg CO2e,3.415741349,0.250979397
+624,Animal Fibers,cashmere,conventional,Washing,Mongolia,GHGs,kg CO2e,4.954694829,0.364057519
+625,Animal Fibers,wool,restorative grazing,Animal rearing,Mongolia,GHGs,kg CO2e,55.19521911,4.05559479
+626,Leather,goat,conventional,Animal rearing,Mongolia,GHGs,kg CO2e,79.49785891,5.841286757
+627,Leather,goat,conventional,Abattoir,Morocco,GHGs,kg CO2e,0.540602346,0.039721992
+628,Leather,sheep/goat,conventional,Tanning - RH_WB,Morocco,GHGs,kg CO2e,1.945007273,0.142913852
+629,Leather,sheep/lamb,conventional,Tanning - WB_FL,Morocco,GHGs,kg CO2e,1.054171113,0.07745763
+630,Plant Fibers,cotton,conventional,Ginning,Morocco,GHGs,kg CO2e,1.069698986,0.078598576
+631,Fur,lamb,None,Animal rearing,Morocco,GHGs,kg CO2e,132.3320193,9.723397365
+632,Leather,sheep/lamb,conventional,Animal rearing,Morocco,GHGs,kg CO2e,33.64593171,2.472211679
+633,Leather,goat,conventional,Abattoir,Nepal,GHGs,kg CO2e,1.049818622,0.077137821
+634,Leather,goat,conventional,Tanning - RH_WB,Nepal,GHGs,kg CO2e,0.866120644,0.063640193
+635,Leather,goat,conventional,Animal rearing,Nepal,GHGs,kg CO2e,79.49785891,5.841286757
+636,Leather,goat,conventional,Abattoir,Netherlands,GHGs,kg CO2e,0.684736452,0.050312575
+637,Leather,beef/calf,conventional,Tanning - RH_WB,Netherlands,GHGs,kg CO2e,0.866120644,0.063640193
+638,Leather,beef/calf,conventional,Tanning - RH_WB - Metal-free,Netherlands,GHGs,kg CO2e,0.63735214,0.046830904
+639,Synthetic Fibers,elastic,None,Processing,Netherlands,GHGs,kg CO2e,1.246312904,0.091575687
+640,Leather,deer,None,Abattoir,New Zealand,GHGs,kg CO2e,0.382433971,0.028100209
+641,Leather,beef/calf,conventional,Tanning - RH_WB - Metal-free,New Zealand,GHGs,kg CO2e,0.627541472,0.046110043
+642,Animal Fibers,wool,conventional,Washing,New Zealand,GHGs,kg CO2e,2.279511304,0.167492299
+643,Leather,sheep/lamb,conventional,Animal rearing,New Zealand,GHGs,kg CO2e,10.42746471,0.766181786
+644,Leather,beef/calf,salpa,Animal rearing,New Zealand,GHGs,kg CO2e,0.043281084,0.003180176
+645,Leather,sheep/goat,conventional,Animal rearing,New Zealand,GHGs,kg CO2e,33.64593171,2.472211679
+646,Leather,goat,conventional,Tanning - RH_WB,Niger,GHGs,kg CO2e,0.866120644,0.063640193
+647,Leather,sheep/lamb,conventional,Abattoir,Nigeria,GHGs,kg CO2e,0.589709698,0.043330267
+648,Leather,goat,conventional,Tanning - RH_WB,Nigeria,GHGs,kg CO2e,1.90282807,0.139814639
+649,Leather,sheep/goat,conventional,Tanning - RH_WB - Metal-free,Nigeria,GHGs,kg CO2e,1.546629272,0.113642118
+650,Leather,sheep/goat,conventional,Tanning - WB_FL,Nigeria,GHGs,kg CO2e,1.054171113,0.07745763
+651,Leather,sheep/goat,conventional,Tanning - WB_FL - Metal-free,Nigeria,GHGs,kg CO2e,2.160028266,0.15871301
+652,Leather,beef/calf,conventional,Abattoir,Norway,GHGs,kg CO2e,0.513481904,0.037729256
+653,Leather,beef/calf,conventional,Animal rearing,Norway,GHGs,kg CO2e,16.88422922,1.240607305
+654,Plant Fibers,linen,conventional,Ginning,Pakistan,GHGs,kg CO2e,0.297637122,0.021869567
+655,Synthetic Fibers,elastic,None,Processing,Pakistan,GHGs,kg CO2e,4.542045281,0.333737151
+656,Synthetic Fibers,polyester,conventional,Processing,Pakistan,GHGs,kg CO2e,14.216746,1.044607883
+657,Plant Fibers,linen,conventional,Crop farming,Pakistan,GHGs,kg CO2e,1.605367494,0.117958043
+658,Leather,beef/calf,salpa,Abattoir,Paraguay,GHGs,kg CO2e,0.000855518,6.29E-05
+659,Leather,beef/calf,conventional,Tanning - RH_WB,Paraguay,GHGs,kg CO2e,0.860990449,0.06326324
+660,Leather,beef/calf,conventional,Animal rearing,Paraguay,GHGs,kg CO2e,48.1651302,3.53904295
+661,Leather,beef/calf,salpa,Animal rearing,Paraguay,GHGs,kg CO2e,0.080248468,0.005896439
+662,Fur,None,None,Abattoir,Peru,GHGs,kg CO2e,1.82541288,0.134126381
+663,Leather,sheep/goat,conventional,Abattoir,Peru,GHGs,kg CO2e,0.57422169,0.04219225
+664,Leather,sheep/goat,conventional,Tanning - RH_WB,Peru,GHGs,kg CO2e,1.571467566,0.115467169
+665,Plant Fibers,cotton,organic,Ginning,Peru,GHGs,kg CO2e,0.513326499,0.037717837
+666,Plant Fibers,cotton,conventional,Ginning,Peru,GHGs,kg CO2e,0.53885406,0.039593533
+667,Plant Fibers,cotton,organic,Crop farming,Peru,GHGs,kg CO2e,1.939977447,0.142544274
+668,Animal Fibers,wool,conventional,Animal rearing,Peru,GHGs,kg CO2e,127.1723826,9.344281275
+669,Leather,beef/calf,conventional,Abattoir,Poland,GHGs,kg CO2e,0.513481904,0.037729256
+670,Leather,beef/calf,conventional,Tanning - WB_FL,Poland,GHGs,kg CO2e,1.054171113,0.07745763
+671,Animal Fibers,wool,conventional,Washing,Poland,GHGs,kg CO2e,2.464444843,0.181080714
+672,Plant Fibers,linen,conventional,Ginning,Poland,GHGs,kg CO2e,0.297696887,0.021873959
+673,Synthetic Fibers,polyester,conventional,Processing,Poland,GHGs,kg CO2e,3.794428291,0.278804285
+674,Animal Fibers,cashmere,regenerated,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.477701587,0.329009351
+675,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.477701587,0.329009351
+676,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.477701587,0.329009351
+677,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.477701587,0.329009351
+678,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.280155473,0.314494199
+679,Plant Fibers,cotton,recycled,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.280155473,0.314494199
+680,Synthetic Fibers,nylon,Econyl,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.561488807,0.335165809
+681,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.561488807,0.335165809
+682,Leather,beef/calf,conventional,Tanning - WB_FL,Portugal,GHGs,kg CO2e,1.049040918,0.077080677
+683,Animal Fibers,wool,conventional,Washing,Portugal,GHGs,kg CO2e,0.901916092,0.066270345
+684,Plant Fibers,cotton,conventional,Ginning,Portugal,GHGs,kg CO2e,0.383215431,0.028157629
+685,Synthetic Fibers,acrylic,None,Processing,Portugal,GHGs,kg CO2e,3.347819778,0.245988705
+686,Synthetic Fibers,elastic,None,Processing,Portugal,GHGs,kg CO2e,1.246312904,0.091575687
+687,Synthetic Fibers,nylon,conventional,Processing,Portugal,GHGs,kg CO2e,18.07025374,1.327753166
+688,Fur,None,None,Animal rearing,Portugal,GHGs,kg CO2e,114.5217581,8.414747741
+689,Synthetic Fibers,elastic,None,Extraction,Portugal,GHGs,kg CO2e,0.069097484,0.005077095
+690,Leather,beef/calf,conventional,Abattoir,Romania,GHGs,kg CO2e,0.513481904,0.037729256
+691,Synthetic Fibers,polyester,conventional,Processing,Romania,GHGs,kg CO2e,3.794428291,0.278804285
+692,Synthetic Fibers,nylon,conventional,Processing,Romania,GHGs,kg CO2e,18.07025374,1.327753166
+693,Animal Fibers,wool,conventional,Animal rearing,Romania,GHGs,kg CO2e,46.28601501,3.40097067
+694,Leather,sheep/goat,conventional,Abattoir,Saudi Arabia,GHGs,kg CO2e,0.589110861,0.043286266
+695,Leather,goat,conventional,Abattoir,Saudi Arabia,GHGs,kg CO2e,0.503514398,0.03699687
+696,Leather,goat,conventional,Abattoir,Senegal,GHGs,kg CO2e,0.503514398,0.03699687
+697,Leather,goat,conventional,Tanning - RH_WB,Senegal,GHGs,kg CO2e,0.866120644,0.063640193
+698,Leather,beef/calf,conventional,Tanning - RH_WB - Metal-free,Serbia,GHGs,kg CO2e,0.63735214,0.046830904
+699,Leather,beef/calf,conventional,Tanning - WB_FL,Serbia,GHGs,kg CO2e,1.054171113,0.07745763
+700,Synthetic Fibers,elastic,None,Extraction,Singapore,GHGs,kg CO2e,0.069097484,0.005077095
+701,Leather,beef/calf,conventional,Animal rearing,Slovenia,GHGs,kg CO2e,16.96285714,1.246384671
+702,Synthetic Fibers,polyester,conventional,Extraction,Slovenia,GHGs,kg CO2e,0.20320882,0.014931232
+703,Leather,sheep/lamb,conventional,Abattoir,South Africa,GHGs,kg CO2e,0.665353836,0.048888393
+704,Leather,sheep/goat,conventional,Abattoir,South Africa,GHGs,kg CO2e,0.690767981,0.050755755
+705,Fur,None,None,Tanning - RH_WB,South Africa,GHGs,kg CO2e,0.860990449,0.06326324
+706,Animal Fibers,wool,restorative grazing,Washing,South Africa,GHGs,kg CO2e,1.215371932,0.089302229
+707,Synthetic Fibers,polyester,conventional,Processing,South Africa,GHGs,kg CO2e,14.216746,1.044607883
+708,Leather,sheep/lamb,conventional,Animal rearing,South Africa,GHGs,kg CO2e,15.87890668,1.166738935
+709,Plant Fibers,cotton,conventional,Crop farming,South Africa,GHGs,kg CO2e,1.724796571,0.126733367
+710,Animal Fibers,wool,restorative grazing,Animal rearing,South Africa,GHGs,kg CO2e,55.55383541,4.081944942
+711,Leather,beef/calf,conventional,Animal rearing,South Africa,GHGs,kg CO2e,48.47907905,3.56211106
+712,Synthetic Fibers,nylon,conventional,Extraction,South Africa,GHGs,kg CO2e,0.951478599,0.069912063
+713,Leather,beef/calf,conventional,Abattoir,Spain,GHGs,kg CO2e,0.513481904,0.037729256
+714,Leather,sheep/lamb,conventional,Abattoir,Spain,GHGs,kg CO2e,0.454717668,0.033411419
+715,Animal Fibers,cashmere,regenerated,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.464513843,0.328040352
+716,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.464513843,0.328040352
+717,Plant Fibers,cotton,recycled,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.264780493,0.313364488
+718,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.546113828,0.334036097
+719,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.546113828,0.334036097
+720,Fur,lamb,None,Tanning - RH_WB,Spain,GHGs,kg CO2e,0.860990449,0.06326324
+721,Leather,beef/calf,conventional,Tanning - WB_FL,Spain,GHGs,kg CO2e,1.054171113,0.07745763
+722,Leather,sheep/lamb,conventional,Tanning - WB_FL,Spain,GHGs,kg CO2e,1.054171113,0.07745763
+723,Animal Fibers,mohair,conventional,Washing,Spain,GHGs,kg CO2e,1.500463105,0.110249954
+724,Leather,sheep/lamb,conventional,Animal rearing,Spain,GHGs,kg CO2e,11.45350648,0.841572548
+725,Animal Fibers,mohair,conventional,Animal rearing,Spain,GHGs,kg CO2e,179.7295427,13.20603865
+726,Leather,sheep/lamb,conventional,Abattoir,Sweden,GHGs,kg CO2e,0.454717668,0.033411419
+727,Leather,beef/calf,conventional,Animal rearing,Sweden,GHGs,kg CO2e,16.88129472,1.240391686
+728,Leather,sheep/lamb,conventional,Animal rearing,Sweden,GHGs,kg CO2e,11.36467718,0.835045612
+729,Leather,beef/calf,conventional,Abattoir,Switzerland,GHGs,kg CO2e,0.513481904,0.037729256
+730,Animal Fibers,mohair,restorative grazing,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.106828963,0.301758638
+731,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.106828963,0.301758638
+732,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.106828963,0.301758638
+733,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.106828963,0.301758638
+734,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,3.847772268,0.282723856
+735,Plant Fibers,linen,organic,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,3.847772268,0.282723856
+736,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,8.258211204,0.60679093
+737,Leather,sheep/lamb,conventional,Tanning - RH_WB,Switzerland,GHGs,kg CO2e,0.866120644,0.063640193
+738,Synthetic Fibers,nylon,conventional,Processing,Switzerland,GHGs,kg CO2e,18.07025374,1.327753166
+739,Leather,sheep/lamb,conventional,Animal rearing,Switzerland,GHGs,kg CO2e,11.36436822,0.835022911
+740,Synthetic Fibers,elastic,None,Extraction,Switzerland,GHGs,kg CO2e,0.069097484,0.005077095
+741,Synthetic Fibers,nylon,conventional,Extraction,Switzerland,GHGs,kg CO2e,0.951478599,0.069912063
+742,Plant Fibers,linen,conventional,Ginning,Taiwan,GHGs,kg CO2e,0.297664465,0.021871576
+743,Synthetic Fibers,polyester,conventional,Processing,Taiwan,GHGs,kg CO2e,9.835368987,0.7226762
+744,Plant Fibers,linen,conventional,Crop farming,Taiwan,GHGs,kg CO2e,1.288046157,0.094642133
+745,Synthetic Fibers,elastic,None,Extraction,Taiwan,GHGs,kg CO2e,0.069097484,0.005077095
+746,Synthetic Fibers,acrylic,None,Processing,Thailand,GHGs,kg CO2e,4.532560867,0.333040262
+747,Synthetic Fibers,polyester,conventional,Extraction,Thailand,GHGs,kg CO2e,0.142631557,0.010480179
+748,Leather,beef/calf,conventional,Abattoir,Tunisia,GHGs,kg CO2e,0.431654609,0.031716808
+749,Leather,sheep/lamb,conventional,Abattoir,Tunisia,GHGs,kg CO2e,0.589709698,0.043330267
+750,Synthetic Fibers,nylon,conventional,Processing,Tunisia,GHGs,kg CO2e,28.16073009,2.069173962
+751,Leather,beef/calf,conventional,Animal rearing,Tunisia,GHGs,kg CO2e,19.05326451,1.399982127
+752,Plant Fibers,linen,conventional,Crop farming,Tunisia,GHGs,kg CO2e,1.105231117,0.081209381
+753,Animal Fibers,wool,conventional,Animal rearing,Tunisia,GHGs,kg CO2e,45.73133672,3.360214416
+754,Synthetic Fibers,nylon,conventional,Extraction,Tunisia,GHGs,kg CO2e,0.951478599,0.069912063
+755,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.810086547,0.353432095
+756,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.810086547,0.353432095
+757,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.810086547,0.353432095
+758,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.810086547,0.353432095
+759,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.810086547,0.353432095
+760,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.667667695,0.342967545
+761,Plant Fibers,linen,organic,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.667667695,0.342967545
+762,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.949001029,0.363639154
+763,Leather,sheep/lamb,conventional,Tanning - RH_WB,Turkey,GHGs,kg CO2e,0.866120644,0.063640193
+764,Leather,sheep/lamb,conventional,Tanning - WB_FL,Turkey,GHGs,kg CO2e,1.054171113,0.07745763
+765,Animal Fibers,mohair,conventional,Washing,Turkey,GHGs,kg CO2e,1.528110518,0.112281411
+766,Fur,None,None,Tanning - WB_FL,Turkey,GHGs,kg CO2e,0.7121292,0.052325319
+767,Plant Fibers,cotton,organic,Ginning,Turkey,GHGs,kg CO2e,0.667322747,0.049033063
+768,Leather,beef/calf,conventional,Abattoir,Albania,GHGs,kg CO2e,0.513481904,0.037729256
+769,Plant Fibers,linen,conventional,Ginning,Turkey,GHGs,kg CO2e,0.297644681,0.021870123
+770,Leather,beef/calf,conventional,Abattoir,Argentina,GHGs,kg CO2e,0.513481904,0.037729256
+771,Synthetic Fibers,acrylic,None,Processing,Turkey,GHGs,kg CO2e,3.415741349,0.250979397
+772,Synthetic Fibers,elastic,None,Processing,Turkey,GHGs,kg CO2e,1.246312904,0.091575687
+773,Leather,beef/calf,conventional,Tanning - RH_WB,Argentina,GHGs,kg CO2e,0.866120644,0.063640193
+774,Plant Fibers,cotton,conventional,Crop farming,Turkey,GHGs,kg CO2e,2.277652455,0.167355716
+775,Animal Fibers,wool,conventional,Washing,Argentina,GHGs,kg CO2e,1.344681579,0.09880355
+776,Animal Fibers,wool,conventional,Animal rearing,Turkey,GHGs,kg CO2e,126.7684998,9.314605062
+777,Animal Fibers,wool,organic,Washing,Argentina,GHGs,kg CO2e,1.344681579,0.09880355
+778,Synthetic Fibers,nylon,conventional,Extraction,Turkey,GHGs,kg CO2e,0.951478599,0.069912063
+779,Animal Fibers,wool,restorative grazing,Washing,Argentina,GHGs,kg CO2e,1.351109482,0.099275855
+780,Leather,beef/calf,conventional,Abattoir,Ukraine,GHGs,kg CO2e,0.513481904,0.037729256
+781,Animal Fibers,wool,restorative grazing,Animal rearing,Argentina,GHGs,kg CO2e,152.8479115,11.2308494
+782,Leather,beef/calf,conventional,Tanning - WB_FL,Ukraine,GHGs,kg CO2e,1.054171113,0.07745763
+783,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.651222459,0.341759194
+784,Leather,beef/calf,conventional,Animal rearing,Argentina,GHGs,kg CO2e,48.11006441,3.534996866
+785,Animal Fibers,mohair,restorative grazing,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.651222459,0.341759194
+786,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.651222459,0.341759194
+787,Leather,beef/calf,conventional,Abattoir,Australia,GHGs,kg CO2e,0.431293754,0.031690294
+788,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.651222459,0.341759194
+789,Leather,kangaroo,None,Abattoir,Australia,GHGs,kg CO2e,0.38886937,0.028573065
+790,Leather,beef/calf,conventional,Tanning - RH_WB,Australia,GHGs,kg CO2e,0.866120644,0.063640193
+791,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.482455417,0.32935865
+792,Animal Fibers,mohair,conventional,Washing,Australia,GHGs,kg CO2e,2.164392827,0.159033706
+793,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.763788751,0.350030259
+794,Animal Fibers,wool,organic,Washing,Australia,GHGs,kg CO2e,0.96320487,0.070773678
+795,Leather,beef/calf,conventional,Tanning - RH_WB,United Kingdom,GHGs,kg CO2e,0.866120644,0.063640193
+796,Animal Fibers,wool,regenerated,Washing,Australia,GHGs,kg CO2e,0.516680852,0.037964306
+797,Leather,sheep/lamb,conventional,Tanning - WB_FL,United Kingdom,GHGs,kg CO2e,1.054171113,0.07745763
+798,Plant Fibers,cotton,conventional,Ginning,Australia,GHGs,kg CO2e,1.395319639,0.102524297
+799,Animal Fibers,wool,conventional,Washing,United Kingdom,GHGs,kg CO2e,0.91750885,0.067416058
+800,Plant Fibers,cotton,organic,Ginning,Australia,GHGs,kg CO2e,0.845868749,0.062152138
+801,Plant Fibers,hemp,None,Ginning,United Kingdom,GHGs,kg CO2e,0.000160365,1.18E-05
+802,Plant Fibers,cotton,organic,Crop farming,Australia,GHGs,kg CO2e,3.248366681,0.238681161
+803,Leather,sheep/lamb,conventional,Animal rearing,United Kingdom,GHGs,kg CO2e,11.50003593,0.844991406
+804,Leather,beef/calf,conventional,Abattoir,United States,GHGs,kg CO2e,0.513481904,0.037729256
+805,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.666345878,0.416347705
+806,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.666345878,0.416347705
+807,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.666345878,0.416347705
+808,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,6.093715609,0.447749672
+809,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.249418352,0.312235719
+810,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,6.093715609,0.447749672
+811,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.249418352,0.312235719
+812,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,6.093715609,0.447749672
+813,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.249418352,0.312235719
+814,Leather,beef/calf,conventional,Tanning - RH_WB,United States,GHGs,kg CO2e,0.866120644,0.063640193
+815,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.249418352,0.312235719
+816,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,8.590687926,0.631220417
+817,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,Austria,GHGs,kg CO2e,4.295343963,0.315610208
+818,Plant Fibers,cotton,conventional,Ginning,United States,GHGs,kg CO2e,0.704108127,0.051735953
+819,Leather,beef/calf,conventional,Animal rearing,Austria,GHGs,kg CO2e,16.92197532,1.243380786
+820,Leather,beef/calf,conventional,Abattoir,Bangladesh,GHGs,kg CO2e,0.49880276,0.036650672
+821,Synthetic Fibers,elastic,None,Processing,United States,GHGs,kg CO2e,1.640078106,0.120508485
+822,Leather,goat,conventional,Abattoir,Bangladesh,GHGs,kg CO2e,0.790846536,0.058109256
+823,Synthetic Fibers,neoprene,None,Processing,United States,GHGs,kg CO2e,2.429252725,0.178494892
+824,Leather,goat,conventional,Tanning - RH_WB,Bangladesh,GHGs,kg CO2e,0.866120644,0.063640193
+825,Plant Fibers,hemp,None,Ginning,Bangladesh,GHGs,kg CO2e,0.000160365,1.18E-05
+826,Plant Fibers,cotton,conventional,Crop farming,United States,GHGs,kg CO2e,3.896845869,0.286329651
+827,Plant Fibers,cotton,conventional,Ginning,Bangladesh,GHGs,kg CO2e,0.736582651,0.054122093
+828,Animal Fibers,wool,conventional,Animal rearing,United States,GHGs,kg CO2e,127.1988014,9.346222452
+829,Leather,beef/calf,conventional,Abattoir,Belarus,GHGs,kg CO2e,0.513481904,0.037729256
+830,Synthetic Fibers,elastic,None,Processing,Belarus,GHGs,kg CO2e,1.246312904,0.091575687
+831,Synthetic Fibers,polyester,conventional,Processing,Belarus,GHGs,kg CO2e,3.794428291,0.278804285
+832,Synthetic Fibers,polyester,conventional,Extraction,Belarus,GHGs,kg CO2e,0.20320882,0.014931232
+833,Synthetic Fibers,elastic,None,Extraction,United States,GHGs,kg CO2e,0.069097484,0.005077095
+834,Leather,beef/calf,conventional,Abattoir,Belgium,GHGs,kg CO2e,0.513481904,0.037729256
+835,Synthetic Fibers,neoprene,None,Extraction,United States,GHGs,kg CO2e,0.115036231,0.00845255
+836,Animal Fibers,mohair,restorative grazing,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.315838359,0.317116081
+837,Synthetic Fibers,polyester,conventional,Extraction,United States,GHGs,kg CO2e,0.234383198,0.017221841
+838,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.315838359,0.317116081
+839,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.315838359,0.317116081
+840,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.315838359,0.317116081
+841,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,4.372779971,0.321299996
+842,Synthetic Fibers,nylon,conventional,Extraction,United States,GHGs,kg CO2e,0.951478599,0.069912063
+843,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,Belgium,GHGs,kg CO2e,2.9053993,0.213480849
+844,Plant Fibers,linen,conventional,Ginning,Belgium,GHGs,kg CO2e,0.2975828,0.021865576
+845,Animal Fibers,wool,conventional,Washing,Uruguay,GHGs,kg CO2e,0.87714222,0.064450028
+846,Animal Fibers,wool,regenerated,Washing,Uruguay,GHGs,kg CO2e,0.830427465,0.061017555
+847,Synthetic Fibers,elastic,None,Processing,Belgium,GHGs,kg CO2e,1.246312904,0.091575687
+848,Animal Fibers,wool,regenerated,Animal rearing,Uruguay,GHGs,kg CO2e,66.18065801,4.862775004
+849,Synthetic Fibers,polyester,conventional,Processing,Belgium,GHGs,kg CO2e,3.794428291,0.278804285
+850,Plant Fibers,cotton,conventional,Ginning,Vietnam,GHGs,kg CO2e,0.639564596,0.046993469
+851,Synthetic Fibers,nylon,conventional,Processing,Belgium,GHGs,kg CO2e,18.07025374,1.327753166
+852,Plant Fibers,linen,organic,Crop farming,Belgium,GHGs,kg CO2e,0.913931953,0.067153238
+853,Synthetic Fibers,nylon,conventional,Processing,Vietnam,GHGs,kg CO2e,55.79498491,4.099663952
+854,Plant Fibers,cotton,conventional,Crop farming,Vietnam,GHGs,kg CO2e,5.583134804,0.410233582
+855,Synthetic Fibers,elastic,None,Extraction,Vietnam,GHGs,kg CO2e,0.069097484,0.005077095
+856,Synthetic Fibers,nylon,conventional,Extraction,Belgium,GHGs,kg CO2e,0.951478599,0.069912063
+857,Synthetic Fibers,polyester,conventional,Extraction,Vietnam,GHGs,kg CO2e,0.216958558,0.015941526
+858,Leather,beef/calf,conventional,Animal rearing,Bosnia and Herzegovina,GHGs,kg CO2e,17.01311327,1.250077356
+859,Leather,beef/calf,conventional,Abattoir,Brazil,GHGs,kg CO2e,0.513481904,0.037729256
+860,Leather,sheep/goat,conventional,Abattoir,Brazil,GHGs,kg CO2e,0.538604547,0.039575199
+861,Leather,beef/calf,salpa,Abattoir,Brazil,GHGs,kg CO2e,0.000855518,6.29E-05
+862,Leather,beef/calf,conventional,Tanning - RH_WB,Brazil,GHGs,kg CO2e,0.860990449,0.06326324
+863,Leather,sheep/goat,conventional,Tanning - WB_FL,Brazil,GHGs,kg CO2e,1.054171113,0.07745763
+864,Plant Fibers,linen,conventional,Ginning,Brazil,GHGs,kg CO2e,0.297586911,0.021865878
+865,Leather,sheep/goat,conventional,Animal rearing,Brazil,GHGs,kg CO2e,33.64593171,2.472211679
+866,Leather,sheep/lamb,conventional,Abattoir,Bulgaria,GHGs,kg CO2e,0.454717668,0.033411419
+867,Leather,beef/calf,conventional,Animal rearing,Bulgaria,GHGs,kg CO2e,17.07139683,1.254359873
+868,Synthetic Fibers,polyester,conventional,Extraction,Bulgaria,GHGs,kg CO2e,0.20320882,0.014931232
+869,Plant Fibers,cotton,organic,Ginning,Cameroon,GHGs,kg CO2e,0.683226927,0.050201659
+870,Fur,fox,None,Abattoir,Canada,GHGs,kg CO2e,3.011542325,0.221279951
+871,Leather,beef/calf,conventional,Animal rearing,Canada,GHGs,kg CO2e,28.89387943,2.123043785
+872,Plant Fibers,cotton,organic,Ginning,Central African Republic,GHGs,kg CO2e,0.683226927,0.050201659
+873,Plant Fibers,cotton,conventional,Crop farming,Central African Republic,GHGs,kg CO2e,1.349838536,0.099182469
+874,Leather,beef/calf,conventional,Abattoir,Chile,GHGs,kg CO2e,0.513481904,0.037729256
+875,Animal Fibers,wool,conventional,Washing,Chile,GHGs,kg CO2e,1.203360181,0.088419638
+876,Animal Fibers,wool,restorative grazing,Washing,Chile,GHGs,kg CO2e,4.128363938,0.30334097
+877,Animal Fibers,wool,conventional,Animal rearing,Chile,GHGs,kg CO2e,46.30445451,3.402325554
+878,Fur,None,None,Abattoir,China,GHGs,kg CO2e,1.82541288,0.134126381
+879,Leather,beef/calf,conventional,Abattoir,China,GHGs,kg CO2e,0.569138287,0.041818736
+880,Leather,deer,None,Abattoir,China,GHGs,kg CO2e,0.431522552,0.031707105
+881,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.02653711,1.030631851
+882,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,14.02653711,1.030631851
+883,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,China,GHGs,kg CO2e,13.24579397,0.973264965
+884,Leather,beef/calf,conventional,Tanning - RH_WB,China,GHGs,kg CO2e,0.866120644,0.063640193
+885,Leather,beef/calf,conventional,Tanning - WB_FL,China,GHGs,kg CO2e,1.054171113,0.07745763
+886,Leather,goat,conventional,Tanning - RH_WB,China,GHGs,kg CO2e,0.866120644,0.063640193
+887,Leather,sheep/lamb,conventional,Tanning - WB_FL,China,GHGs,kg CO2e,1.054171113,0.07745763
+888,Synthetic Fibers,acrylic,None,Processing,China,GHGs,kg CO2e,12.53691134,0.921178195
+889,Synthetic Fibers,polyester,recycled,Processing,China,GHGs,kg CO2e,11.97876846,0.880167372
+890,Synthetic Fibers,nylon,conventional,Processing,China,GHGs,kg CO2e,66.59462859,4.893192438
+891,Animal Fibers,wool,organic,Animal rearing,China,GHGs,kg CO2e,127.3429819,9.356816449
+892,Animal Fibers,cashmere,conventional,Animal rearing,China,GHGs,kg CO2e,2766.411057,203.2683709
+893,Animal Fibers,cashmere,restorative grazing,Animal rearing,China,GHGs,kg CO2e,1739.613998,127.8221118
+894,Leather,goat,conventional,Animal rearing,China,GHGs,kg CO2e,79.49785891,5.841286757
+895,Synthetic Fibers,acrylic,None,Extraction,China,GHGs,kg CO2e,0.183277929,0.013466764
+896,Synthetic Fibers,elastic,None,Extraction,China,GHGs,kg CO2e,0.069097484,0.005077095
+897,Synthetic Fibers,neoprene,None,Extraction,China,GHGs,kg CO2e,0.201040932,0.014771942
+898,Leather,beef/calf,conventional,Animal rearing,Croatia,GHGs,kg CO2e,16.97634903,1.247376019
+899,Fur,mink,None,Abattoir,Denmark,GHGs,kg CO2e,3.594349788,0.26410306
+900,Leather,beef/calf,conventional,Tanning - RH_WB,Denmark,GHGs,kg CO2e,0.866120644,0.063640193
+901,Leather,beef/calf,conventional,Animal rearing,Denmark,GHGs,kg CO2e,17.00130571,1.249209768
+902,Fur,mink,None,Animal rearing,Denmark,GHGs,kg CO2e,310.5673803,22.81964761
+903,Leather,beef/calf,conventional,Animal rearing,Ethiopia,GHGs,kg CO2e,17.11831636,1.257807393
+904,Fur,mink,None,Abattoir,Finland,GHGs,kg CO2e,3.592969766,0.26400166
+905,Fur,fox,None,Tanning - RH_WB,Finland,GHGs,kg CO2e,0.866120644,0.063640193
+906,Fur,fox,None,Animal rearing,Finland,GHGs,kg CO2e,218.1998236,16.03273041
+907,Fur,None,None,Abattoir,France,GHGs,kg CO2e,1.82541288,0.134126381
+908,Leather,beef/calf,conventional,Abattoir,France,GHGs,kg CO2e,0.513481904,0.037729256
+909,Animal Fibers,mohair,restorative grazing,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.135766341,0.303884878
+910,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.135766341,0.303884878
+911,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.135766341,0.303884878
+912,Plant Fibers,cotton,recycled,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,3.881509016,0.28520274
+913,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,3.881509016,0.28520274
+914,Plant Fibers,linen,organic,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,3.881509016,0.28520274
+915,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,France,GHGs,kg CO2e,4.16284235,0.30587435
+916,Fur,None,None,Tanning - WB_FL,France,GHGs,kg CO2e,1.054171113,0.07745763
+917,Leather,beef/calf,conventional,Tanning - RH_WB,France,GHGs,kg CO2e,0.866120644,0.063640193
+918,Leather,beef/calf,conventional,Tanning - RH_WB - Metal-free,France,GHGs,kg CO2e,0.63735214,0.046830904
+919,Leather,goat,conventional,Tanning - RH_WB,France,GHGs,kg CO2e,0.866120644,0.063640193
+920,Leather,sheep/lamb,conventional,Tanning - RH_WB - Metal-free,France,GHGs,kg CO2e,0.63735214,0.046830904
+921,Synthetic Fibers,elastic,None,Processing,France,GHGs,kg CO2e,1.246312904,0.091575687
+922,Synthetic Fibers,polyester,conventional,Processing,France,GHGs,kg CO2e,3.794428291,0.278804285
+923,Synthetic Fibers,nylon,conventional,Processing,France,GHGs,kg CO2e,18.07025374,1.327753166
+924,Plant Fibers,linen,conventional,Crop farming,France,GHGs,kg CO2e,0.892844507,0.065603789
+925,Synthetic Fibers,elastic,None,Extraction,France,GHGs,kg CO2e,0.069097484,0.005077095
+926,Synthetic Fibers,polyester,conventional,Extraction,France,GHGs,kg CO2e,0.20320882,0.014931232
+927,Leather,beef/calf,salpa,Abattoir,Germany,GHGs,kg CO2e,0.000855518,6.29E-05
+928,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.709561398,0.34604578
+929,Plant Fibers,cotton,recycled,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.550470083,0.334356183
+930,Synthetic Fibers,nylon,Econyl,Spinning Weaving and Dyeing,Germany,GHGs,kg CO2e,4.831803417,0.355027792
+931,Leather,beef/calf,conventional,Tanning - RH_WB,Germany,GHGs,kg CO2e,0.866120644,0.063640193
+932,Animal Fibers,wool,restorative grazing,Washing,Germany,GHGs,kg CO2e,0.927056598,0.068117601
+933,Leather,beef/calf,conventional,Animal rearing,Germany,GHGs,kg CO2e,17.05440504,1.253111363
+934,Animal Fibers,mohair,conventional,Animal rearing,Germany,GHGs,kg CO2e,179.7295427,13.20603865
+935,Animal Fibers,wool,organic,Animal rearing,Germany,GHGs,kg CO2e,125.7894371,9.242666197
+936,Leather,sheep/lamb,conventional,Abattoir,Greece,GHGs,kg CO2e,0.454717668,0.033411419
+937,Synthetic Fibers,polyester,conventional,Processing,Greece,GHGs,kg CO2e,3.794428291,0.278804285
+938,Leather,sheep/lamb,conventional,Animal rearing,Greece,GHGs,kg CO2e,11.58814098,0.851465126
+939,Plant Fibers,cotton,organic,Crop farming,Greece,GHGs,kg CO2e,1.708423292,0.125530303
+940,Leather,goat,conventional,Animal rearing,Greece,GHGs,kg CO2e,175.1026243,12.86606525
+941,Plant Fibers,linen,organic,Spinning Weaving and Dyeing,Hungary,GHGs,kg CO2e,4.361182064,0.320447813
+942,Synthetic Fibers,nylon,Econyl,Spinning Weaving and Dyeing,Hungary,GHGs,kg CO2e,4.642515398,0.341119422
+943,Fur,None,None,Animal rearing,Iceland,GHGs,kg CO2e,115.4277093,8.481314576
+944,Leather,deer,None,Abattoir,India,GHGs,kg CO2e,0.49388423,0.036289272
+945,Leather,goat,conventional,Abattoir,India,GHGs,kg CO2e,1.102754667,0.081027418
+946,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.955861953,0.731529696
+947,Animal Fibers,mohair,restorative grazing,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.955861953,0.731529696
+948,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.955861953,0.731529696
+949,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.722162834,0.71435812
+950,Plant Fibers,linen,organic,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,9.722162834,0.71435812
+951,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,10.55707162,0.77570495
+952,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,India,GHGs,kg CO2e,10.55707162,0.77570495
+953,Leather,beef/calf,conventional,Tanning - RH_WB,India,GHGs,kg CO2e,0.866120644,0.063640193
+954,Leather,beef/calf,conventional,Tanning - WB_FL,India,GHGs,kg CO2e,1.054171113,0.07745763
+955,Leather,goat,conventional,Tanning - RH_WB - Metal-free,India,GHGs,kg CO2e,1.338322039,0.098336269
+956,Leather,sheep/goat,conventional,Tanning - WB_FL,India,GHGs,kg CO2e,1.054171113,0.07745763
+957,Animal Fibers,cashmere,conventional,Washing,India,GHGs,kg CO2e,3.205461721,0.235528621
+958,Animal Fibers,wool,conventional,Washing,India,GHGs,kg CO2e,0.991459082,0.072849721
+959,Plant Fibers,hemp,None,Ginning,India,GHGs,kg CO2e,0.000160365,1.18E-05
+960,Plant Fibers,linen,conventional,Ginning,India,GHGs,kg CO2e,0.297733903,0.021876679
+961,Leather,sheep/lamb,conventional,Animal rearing,India,GHGs,kg CO2e,15.33609917,1.126854914
+962,Plant Fibers,hemp,None,Crop farming,India,GHGs,kg CO2e,3.2438421,0.238348707
+963,Plant Fibers,cotton,organic,Crop farming,India,GHGs,kg CO2e,3.472448714,0.2551461
+964,Animal Fibers,wool,conventional,Animal rearing,India,GHGs,kg CO2e,127.4266853,9.362966743
+965,Leather,sheep/goat,conventional,Animal rearing,India,GHGs,kg CO2e,33.64593171,2.472211679
+966,Synthetic Fibers,elastic,None,Extraction,India,GHGs,kg CO2e,0.069097484,0.005077095
+967,Plant Fibers,cotton,conventional,Ginning,Indonesia,GHGs,kg CO2e,0.84021602,0.061736791
+968,Synthetic Fibers,acrylic,None,Processing,Indonesia,GHGs,kg CO2e,6.248454625,0.459119475
+969,Synthetic Fibers,nylon,conventional,Processing,Indonesia,GHGs,kg CO2e,33.14021089,2.435052687
+970,Plant Fibers,cotton,conventional,Crop farming,Indonesia,GHGs,kg CO2e,4.767992276,0.350339123
+971,Leather,sheep/lamb,conventional,Tanning - RH_WB,Iraq,GHGs,kg CO2e,0.866120644,0.063640193
+972,Leather,beef/calf,conventional,Abattoir,Ireland,GHGs,kg CO2e,0.513481904,0.037729256
+973,Leather,beef/calf,conventional,Tanning - RH_WB,Ireland,GHGs,kg CO2e,0.866120644,0.063640193
+974,Synthetic Fibers,elastic,None,Processing,Ireland,GHGs,kg CO2e,1.246312904,0.091575687
+975,Synthetic Fibers,polyester,conventional,Processing,Ireland,GHGs,kg CO2e,3.794428291,0.278804285
+976,Synthetic Fibers,nylon,conventional,Processing,Ireland,GHGs,kg CO2e,18.07025374,1.327753166
+977,Leather,beef/calf,conventional,Animal rearing,Ireland,GHGs,kg CO2e,17.05334306,1.253033331
+978,Synthetic Fibers,elastic,None,Extraction,Ireland,GHGs,kg CO2e,0.069097484,0.005077095
+979,Leather,sheep/lamb,conventional,Abattoir,Israel,GHGs,kg CO2e,0.587937385,0.043200042
+980,Synthetic Fibers,elastic,None,Processing,Israel,GHGs,kg CO2e,1.215782526,0.089332398
+981,Plant Fibers,cotton,organic,Crop farming,Israel,GHGs,kg CO2e,0.796958876,0.058558374
+982,Synthetic Fibers,elastic,None,Extraction,Israel,GHGs,kg CO2e,0.069097484,0.005077095
+983,Leather,goat,conventional,Abattoir,Italy,GHGs,kg CO2e,0.578786832,0.042527684
+984,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.542953634,0.333803894
+985,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.542953634,0.333803894
+986,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.542953634,0.333803894
+987,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.637563146,0.340755544
+988,Synthetic Fibers,nylon,Econyl,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.637563146,0.340755544
+989,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,9.275126291,0.681511089
+990,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,Italy,GHGs,kg CO2e,4.637563146,0.340755544
+991,Leather,sheep/goat,conventional,Tanning - RH_WB,Italy,GHGs,kg CO2e,1.428452399,0.104958803
+992,Fur,None,None,Tanning - RH_WB,Italy,GHGs,kg CO2e,0.866120644,0.063640193
+993,Fur,None,None,Tanning - WB_FL,Italy,GHGs,kg CO2e,1.054171113,0.07745763
+994,Leather,beef/calf,conventional,Tanning - RH_WB,Italy,GHGs,kg CO2e,0.866120644,0.063640193
+995,Leather,beef/calf,conventional,Tanning - WB_FL,Italy,GHGs,kg CO2e,1.054171113,0.07745763
+996,Leather,beef/calf,conventional,Tanning - WB_FL - Metal-free,Italy,GHGs,kg CO2e,0.953909563,0.070090684
+997,Leather,beef/calf,salpa,Tanning - RH_WB,Italy,GHGs,kg CO2e,0.001443053,0.000106032
+998,Leather,beef/calf,salpa,Tanning - WB_FL,Italy,GHGs,kg CO2e,0.001756366,0.000129053
+999,Leather,deer,None,Tanning - WB_FL,Italy,GHGs,kg CO2e,1.054171113,0.07745763
+1000,Leather,goat,conventional,Tanning - WB_FL,Italy,GHGs,kg CO2e,1.054171113,0.07745763
+1001,Animal Fibers,cashmere,regenerated,Washing,Italy,GHGs,kg CO2e,0.77821801,0.057181346
+1002,Plant Fibers,hemp,None,Ginning,Italy,GHGs,kg CO2e,0.000160365,1.18E-05
+1003,Plant Fibers,cotton,conventional,Ginning,Italy,GHGs,kg CO2e,0.764760233,0.056192505
+1004,Plant Fibers,linen,conventional,Ginning,Italy,GHGs,kg CO2e,0.297611235,0.021867665
+1005,Synthetic Fibers,acrylic,None,Processing,Italy,GHGs,kg CO2e,3.415741349,0.250979397
+1006,Synthetic Fibers,elastic,None,Processing,Italy,GHGs,kg CO2e,1.246312904,0.091575687
+1007,Synthetic Fibers,neoprene,None,Processing,Italy,GHGs,kg CO2e,1.837829403,0.135038713
+1008,Synthetic Fibers,nylon,conventional,Processing,Italy,GHGs,kg CO2e,18.07025374,1.327753166
+1009,Plant Fibers,linen,conventional,Crop farming,Italy,GHGs,kg CO2e,0.94052843,0.069107475
+1010,Fur,None,None,Animal rearing,Italy,GHGs,kg CO2e,114.684372,8.426696169
+1011,Animal Fibers,silk,conventional,Silk production,Italy,GHGs,kg CO2e,48.254945,3.545642298
+1012,Synthetic Fibers,acrylic,None,Extraction,Italy,GHGs,kg CO2e,0.183277929,0.013466764
+1013,Synthetic Fibers,neoprene,None,Extraction,Italy,GHGs,kg CO2e,0.100229931,0.007364623
+1014,Animal Fibers,cashmere,regenerated,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.607281452,0.412007812
+1015,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.607281452,0.412007812
+1016,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.607281452,0.412007812
+1017,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.607281452,0.412007812
+1018,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.350477029,0.39313852
+1019,Plant Fibers,linen,organic,Spinning Weaving and Dyeing,Japan,GHGs,kg CO2e,5.350477029,0.39313852
+1020,Animal Fibers,wool,conventional,Washing,Japan,GHGs,kg CO2e,0.93271402,0.068533293
+1021,Plant Fibers,cotton,conventional,Ginning,Japan,GHGs,kg CO2e,0.683494462,0.050221317
+1022,Synthetic Fibers,elastic,None,Processing,Japan,GHGs,kg CO2e,1.349249032,0.099139154
+1023,Synthetic Fibers,nylon,conventional,Processing,Japan,GHGs,kg CO2e,19.62603939,1.44206807
+1024,Animal Fibers,wool,conventional,Animal rearing,Japan,GHGs,kg CO2e,127.2008585,9.346373606
+1025,Synthetic Fibers,elastic,None,Extraction,Japan,GHGs,kg CO2e,0.069097484,0.005077095
+1026,Leather,sheep/lamb,conventional,Abattoir,Jordan,GHGs,kg CO2e,0.589709698,0.043330267
+1027,Leather,sheep/goat,conventional,Abattoir,Jordan,GHGs,kg CO2e,0.589709698,0.043330267
+1028,Leather,goat,conventional,Abattoir,Jordan,GHGs,kg CO2e,0.503514398,0.03699687
+1029,Leather,goat,conventional,Animal rearing,Jordan,GHGs,kg CO2e,79.49785891,5.841286757
+1030,Leather,beef/calf,conventional,Animal rearing,Kenya,GHGs,kg CO2e,17.11831636,1.257807393
+1031,Leather,sheep/lamb,conventional,Tanning - RH_WB,Lebanon,GHGs,kg CO2e,0.866120644,0.063640193
+1032,Synthetic Fibers,polyester,conventional,Processing,Lithuania,GHGs,kg CO2e,3.794428291,0.278804285
+1033,Synthetic Fibers,nylon,conventional,Processing,Lithuania,GHGs,kg CO2e,18.07025374,1.327753166
+1034,Leather,beef/calf,conventional,Animal rearing,Lithuania,GHGs,kg CO2e,16.98077057,1.247700902
+1035,Synthetic Fibers,acrylic,None,Extraction,Lithuania,GHGs,kg CO2e,0.183277929,0.013466764
+1036,Plant Fibers,cotton,conventional,Ginning,Madagascar,GHGs,kg CO2e,0.806959808,0.059293215
+1037,Plant Fibers,cotton,conventional,Ginning,Mexico,GHGs,kg CO2e,1.000641293,0.073524404
+1038,Animal Fibers,wool,conventional,Animal rearing,Mongolia,GHGs,kg CO2e,127.2027576,9.346513145
+1039,Fur,lamb,None,Abattoir,Morocco,GHGs,kg CO2e,1.82541288,0.134126381
+1040,Leather,sheep/goat,conventional,Abattoir,Morocco,GHGs,kg CO2e,0.589709698,0.043330267
+1041,Fur,lamb,None,Tanning - RH_WB,Morocco,GHGs,kg CO2e,0.860990449,0.06326324
+1042,Leather,sheep/lamb,conventional,Tanning - RH_WB,Morocco,GHGs,kg CO2e,0.866120644,0.063640193
+1043,Synthetic Fibers,elastic,None,Processing,Morocco,GHGs,kg CO2e,1.306996554,0.096034557
+1044,Plant Fibers,cotton,conventional,Crop farming,Morocco,GHGs,kg CO2e,3.883805989,0.285371516
+1045,Leather,sheep/goat,conventional,Animal rearing,Morocco,GHGs,kg CO2e,33.64593171,2.472211679
+1046,Leather,sheep/lamb,conventional,Abattoir,Netherlands,GHGs,kg CO2e,0.454717668,0.033411419
+1047,Leather,beef/calf,conventional,Tanning - WB_FL,Netherlands,GHGs,kg CO2e,1.054171113,0.07745763
+1048,Leather,beef/calf,conventional,Animal rearing,Netherlands,GHGs,kg CO2e,16.92576036,1.243658901
+1049,Synthetic Fibers,elastic,None,Extraction,Netherlands,GHGs,kg CO2e,0.069097484,0.005077095
+1050,Leather,sheep/lamb,conventional,Abattoir,New Zealand,GHGs,kg CO2e,0.382433971,0.028100209
+1051,Leather,beef/calf,conventional,Abattoir,New Zealand,GHGs,kg CO2e,0.467724891,0.034367155
+1052,Leather,goat,conventional,Abattoir,New Zealand,GHGs,kg CO2e,0.160160185,0.011768135
+1053,Leather,beef/calf,conventional,Tanning - RH_WB,New Zealand,GHGs,kg CO2e,0.866120644,0.063640193
+1054,Leather,sheep/lamb,conventional,Tanning - RH_WB,New Zealand,GHGs,kg CO2e,0.866120644,0.063640193
+1055,Animal Fibers,mohair,conventional,Washing,New Zealand,GHGs,kg CO2e,1.262864843,0.092791879
+1056,Animal Fibers,wool,restorative grazing,Washing,New Zealand,GHGs,kg CO2e,2.280495641,0.167564626
+1057,Animal Fibers,mohair,conventional,Animal rearing,New Zealand,GHGs,kg CO2e,164.594266,12.09393963
+1058,Fur,None,None,Animal rearing,New Zealand,GHGs,kg CO2e,104.2284753,7.65842528
+1059,Leather,deer,None,Animal rearing,New Zealand,GHGs,kg CO2e,10.42746471,0.766181786
+1060,Animal Fibers,wool,conventional,Animal rearing,New Zealand,GHGs,kg CO2e,123.9150739,9.104943076
+1061,Animal Fibers,wool,organic,Animal rearing,New Zealand,GHGs,kg CO2e,120.4143972,8.847722861
+1062,Leather,goat,conventional,Animal rearing,New Zealand,GHGs,kg CO2e,79.49785891,5.841286757
+1063,Leather,goat,conventional,Abattoir,Niger,GHGs,kg CO2e,0.503514398,0.03699687
+1064,Leather,goat,conventional,Animal rearing,Niger,GHGs,kg CO2e,79.49785891,5.841286757
+1065,Leather,sheep/goat,conventional,Abattoir,Nigeria,GHGs,kg CO2e,0.589709698,0.043330267
+1066,Leather,sheep/goat,conventional,Tanning - RH_WB,Nigeria,GHGs,kg CO2e,1.90282807,0.139814639
+1067,Leather,sheep/lamb,conventional,Tanning - RH_WB,Nigeria,GHGs,kg CO2e,0.860990449,0.06326324
+1068,Leather,goat,conventional,Animal rearing,Nigeria,GHGs,kg CO2e,79.49785891,5.841286757
+1069,Leather,beef/calf,conventional,Tanning - RH_WB,Norway,GHGs,kg CO2e,0.866120644,0.063640193
+1070,Plant Fibers,cotton,organic,Ginning,Pakistan,GHGs,kg CO2e,0.636492236,0.046767721
+1071,Plant Fibers,cotton,conventional,Crop farming,Pakistan,GHGs,kg CO2e,5.521137668,0.4056782
+1072,Plant Fibers,cotton,organic,Crop farming,Pakistan,GHGs,kg CO2e,2.997008564,0.220212049
+1073,Synthetic Fibers,elastic,None,Extraction,Pakistan,GHGs,kg CO2e,0.069097484,0.005077095
+1074,Leather,beef/calf,conventional,Abattoir,Paraguay,GHGs,kg CO2e,0.513481904,0.037729256
+1075,Fur,None,None,Animal rearing,Peru,GHGs,kg CO2e,102.5651635,7.536209647
+1076,Synthetic Fibers,nylon,conventional,Processing,Poland,GHGs,kg CO2e,18.07025374,1.327753166
+1077,Leather,beef/calf,conventional,Animal rearing,Poland,GHGs,kg CO2e,17.20334007,1.264054704
+1078,Plant Fibers,linen,conventional,Crop farming,Poland,GHGs,kg CO2e,1.020640444,0.074993888
+1079,Synthetic Fibers,nylon,conventional,Extraction,Poland,GHGs,kg CO2e,0.951478599,0.069912063
+1080,Leather,sheep/lamb,conventional,Abattoir,Portugal,GHGs,kg CO2e,0.454717668,0.033411419
+1081,Fur,None,None,Abattoir,Portugal,GHGs,kg CO2e,1.82541288,0.134126381
+1082,Animal Fibers,mohair,restorative grazing,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.477701587,0.329009351
+1083,Plant Fibers,linen,organic,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.280155473,0.314494199
+1084,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.561488807,0.335165809
+1085,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.561488807,0.335165809
+1086,Synthetic Fibers,polyester,conventional,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,4.561488807,0.335165809
+1087,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,Portugal,GHGs,kg CO2e,2.667820941,0.196024237
+1088,Leather,sheep/lamb,conventional,Tanning - WB_FL,Portugal,GHGs,kg CO2e,0.658248869,0.048366339
+1089,Leather,sheep/lamb,conventional,Animal rearing,Portugal,GHGs,kg CO2e,11.45679298,0.841814032
+1090,Plant Fibers,cotton,conventional,Crop farming,Portugal,GHGs,kg CO2e,2.282021005,0.167676705
+1091,Synthetic Fibers,acrylic,None,Extraction,Portugal,GHGs,kg CO2e,0.176201041,0.012946774
+1092,Synthetic Fibers,nylon,conventional,Extraction,Portugal,GHGs,kg CO2e,0.951478599,0.069912063
+1093,Leather,beef/calf,conventional,Tanning - RH_WB,Romania,GHGs,kg CO2e,0.866120644,0.063640193
+1094,Leather,beef/calf,conventional,Animal rearing,Romania,GHGs,kg CO2e,17.03214256,1.251475576
+1095,Synthetic Fibers,polyester,conventional,Extraction,Romania,GHGs,kg CO2e,0.20320882,0.014931232
+1096,Synthetic Fibers,nylon,conventional,Extraction,Romania,GHGs,kg CO2e,0.951478599,0.069912063
+1097,Leather,sheep/lamb,conventional,Abattoir,Saudi Arabia,GHGs,kg CO2e,0.551120852,0.040494863
+1098,Leather,goat,conventional,Tanning - RH_WB,Saudi Arabia,GHGs,kg CO2e,0.866120644,0.063640193
+1099,Leather,beef/calf,conventional,Tanning - WB_FL - Metal-free,Serbia,GHGs,kg CO2e,0.953909563,0.070090684
+1100,Leather,sheep/lamb,conventional,Tanning - WB_FL,Serbia,GHGs,kg CO2e,0.658248869,0.048366339
+1101,Leather,beef/calf,conventional,Animal rearing,Serbia,GHGs,kg CO2e,17.04010425,1.25206058
+1102,Synthetic Fibers,elastic,None,Processing,Singapore,GHGs,kg CO2e,2.101351555,0.154401605
+1103,Leather,beef/calf,conventional,Abattoir,Slovenia,GHGs,kg CO2e,0.513481904,0.037729256
+1104,Synthetic Fibers,nylon,Econyl,Processing,Slovenia,GHGs,kg CO2e,3.483434116,0.255953278
+1105,Synthetic Fibers,polyester,conventional,Processing,Slovenia,GHGs,kg CO2e,3.794428291,0.278804285
+1106,Synthetic Fibers,nylon,conventional,Processing,Slovenia,GHGs,kg CO2e,18.07025374,1.327753166
+1107,Synthetic Fibers,nylon,conventional,Extraction,Slovenia,GHGs,kg CO2e,0.951478599,0.069912063
+1108,Leather,sheep/goat,conventional,Tanning - RH_WB,South Africa,GHGs,kg CO2e,2.327657926,0.171029983
+1109,Leather,beef/calf,conventional,Tanning - RH_WB,South Africa,GHGs,kg CO2e,0.866120644,0.063640193
+1110,Leather,sheep/lamb,conventional,Tanning - RH_WB - Metal-free,South Africa,GHGs,kg CO2e,1.546629272,0.113642118
+1111,Leather,sheep/lamb,conventional,Tanning - WB_FL,South Africa,GHGs,kg CO2e,1.054171113,0.07745763
+1112,Animal Fibers,wool,conventional,Washing,South Africa,GHGs,kg CO2e,1.26376844,0.092858273
+1113,Synthetic Fibers,nylon,conventional,Processing,South Africa,GHGs,kg CO2e,46.1219365,3.388914627
+1114,Animal Fibers,mohair,restorative grazing,Animal rearing,South Africa,GHGs,kg CO2e,273.3225585,20.08299926
+1115,Leather,sheep/goat,conventional,Animal rearing,South Africa,GHGs,kg CO2e,33.64593171,2.472211679
+1116,Fur,None,None,Abattoir,Spain,GHGs,kg CO2e,1.82541288,0.134126381
+1117,Leather,sheep/goat,conventional,Abattoir,Spain,GHGs,kg CO2e,0.505160997,0.037117858
+1118,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.464513843,0.328040352
+1119,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.464513843,0.328040352
+1120,Plant Fibers,cotton,conventional,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.264780493,0.313364488
+1121,Plant Fibers,hemp,None,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.264780493,0.313364488
+1122,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.264780493,0.313364488
+1123,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.546113828,0.334036097
+1124,Synthetic Fibers,nylon,Econyl,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.546113828,0.334036097
+1125,Synthetic Fibers,polyester,recycled,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,4.546113828,0.334036097
+1126,Fur,None,None,Tanning - RH_WB,Spain,GHGs,kg CO2e,0.860990449,0.06326324
+1127,Leather,beef/calf,conventional,Tanning - RH_WB,Spain,GHGs,kg CO2e,0.866120644,0.063640193
+1128,Leather,sheep/lamb,conventional,Tanning - RH_WB,Spain,GHGs,kg CO2e,0.866120644,0.063640193
+1129,Leather,sheep/lamb,conventional,Tanning - WB_FL - Metal-free,Spain,GHGs,kg CO2e,0.953909563,0.070090684
+1130,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,Spain,GHGs,kg CO2e,2.652445961,0.194894525
+1131,Plant Fibers,cotton,conventional,Ginning,Spain,GHGs,kg CO2e,0.380331755,0.027945744
+1132,Synthetic Fibers,polyester,conventional,Processing,Spain,GHGs,kg CO2e,3.794428291,0.278804285
+1133,Synthetic Fibers,nylon,conventional,Processing,Spain,GHGs,kg CO2e,18.07025374,1.327753166
+1134,Leather,beef/calf,conventional,Animal rearing,Spain,GHGs,kg CO2e,16.98388006,1.247929379
+1135,Fur,None,None,Animal rearing,Spain,GHGs,kg CO2e,114.488893,8.412332908
+1136,Leather,goat,conventional,Animal rearing,Spain,GHGs,kg CO2e,175.1026243,12.86606525
+1137,Synthetic Fibers,acrylic,None,Extraction,Spain,GHGs,kg CO2e,0.183277929,0.013466764
+1138,Synthetic Fibers,polyester,conventional,Extraction,Spain,GHGs,kg CO2e,0.20320882,0.014931232
+1139,Leather,beef/calf,conventional,Abattoir,Sweden,GHGs,kg CO2e,0.513481904,0.037729256
+1140,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.106828963,0.301758638
+1141,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.106828963,0.301758638
+1142,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.129105602,0.303395465
+1143,Synthetic Fibers,nylon,Econyl,Spinning Weaving and Dyeing,Switzerland,GHGs,kg CO2e,4.129105602,0.303395465
+1144,Synthetic Fibers,polyester,conventional,Processing,Switzerland,GHGs,kg CO2e,3.794428291,0.278804285
+1145,Leather,beef/calf,conventional,Animal rearing,Switzerland,GHGs,kg CO2e,16.89418725,1.241338994
+1146,Synthetic Fibers,acrylic,None,Extraction,Taiwan,GHGs,kg CO2e,0.183277929,0.013466764
+1147,Synthetic Fibers,neoprene,None,Extraction,Taiwan,GHGs,kg CO2e,0.326444436,0.023986251
+1148,Synthetic Fibers,polyester,conventional,Extraction,Taiwan,GHGs,kg CO2e,0.679499087,0.049927747
+1149,Synthetic Fibers,nylon,conventional,Extraction,Taiwan,GHGs,kg CO2e,0.951478599,0.069912063
+1150,Plant Fibers,cotton,organic,Ginning,Tanzania,GHGs,kg CO2e,0.683226927,0.050201659
+1151,Plant Fibers,cotton,organic,Crop farming,Tanzania,GHGs,kg CO2e,3.048364057,0.223985512
+1152,Plant Fibers,cotton,conventional,Ginning,Thailand,GHGs,kg CO2e,0.70428338,0.05174883
+1153,Synthetic Fibers,elastic,None,Processing,Thailand,GHGs,kg CO2e,1.63941962,0.120460101
+1154,Synthetic Fibers,acrylic,None,Extraction,Thailand,GHGs,kg CO2e,0.183277929,0.013466764
+1155,Animal Fibers,wool,conventional,Washing,Tunisia,GHGs,kg CO2e,3.165811949,0.232615264
+1156,Plant Fibers,linen,conventional,Ginning,Tunisia,GHGs,kg CO2e,0.297648581,0.021870409
+1157,Plant Fibers,cotton,conventional,Ginning,Tunisia,GHGs,kg CO2e,0.806959808,0.059293215
+1158,Leather,beef/calf,conventional,Tanning - WB_FL,Tunisia,GHGs,kg CO2e,0.005130195,0.000376953
+1159,Leather,sheep/lamb,conventional,Animal rearing,Tunisia,GHGs,kg CO2e,33.64593171,2.472211679
+1160,Animal Fibers,cashmere,conventional,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.810086547,0.353432095
+1161,Animal Fibers,cashmere,regenerated,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.810086547,0.353432095
+1162,Animal Fibers,mohair,conventional,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.810086547,0.353432095
+1163,Animal Fibers,wool,restorative grazing,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.810086547,0.353432095
+1164,Plant Fibers,cotton,recycled,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.667667695,0.342967545
+1165,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,Turkey,GHGs,kg CO2e,4.667667695,0.342967545
+1166,Leather,beef/calf,conventional,Tanning - WB_FL,Turkey,GHGs,kg CO2e,1.049040918,0.077080677
+1167,Plant Fibers,cotton,recycled,Cotton recycling,Turkey,GHGs,kg CO2e,0.432046144,0.031745577
+1168,Synthetic Fibers,nylon,conventional,Processing,Turkey,GHGs,kg CO2e,18.07025374,1.327753166
+1169,Synthetic Fibers,acrylic,None,Extraction,Turkey,GHGs,kg CO2e,0.183277929,0.013466764
+1170,Synthetic Fibers,elastic,None,Extraction,Turkey,GHGs,kg CO2e,0.069097484,0.005077095
+1171,Leather,beef/calf,conventional,Abattoir,Uganda,GHGs,kg CO2e,0.366085476,0.026898967
+1172,Leather,beef/calf,conventional,Tanning - RH_WB,Uganda,GHGs,kg CO2e,0.860990449,0.06326324
+1173,Leather,beef/calf,conventional,Tanning - WB_FL,Uganda,GHGs,kg CO2e,1.054171113,0.07745763
+1174,Leather,beef/calf,conventional,Tanning - RH_WB,Ukraine,GHGs,kg CO2e,0.866120644,0.063640193
+1175,Leather,beef/calf,conventional,Tanning - RH_WB - Metal-free,Ukraine,GHGs,kg CO2e,0.63735214,0.046830904
+1176,Leather,beef/calf,conventional,Tanning - WB_FL - Metal-free,Ukraine,GHGs,kg CO2e,0.953909563,0.070090684
+1177,Leather,beef/calf,conventional,Animal rearing,Ukraine,GHGs,kg CO2e,17.05352445,1.253046659
+1178,Leather,beef/calf,conventional,Abattoir,United Kingdom,GHGs,kg CO2e,0.513481904,0.037729256
+1179,Animal Fibers,cashmere,regenerated,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.651222459,0.341759194
+1180,Animal Fibers,silk,organic,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.651222459,0.341759194
+1181,Animal Fibers,wool,conventional,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.651222459,0.341759194
+1182,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.651222459,0.341759194
+1183,Plant Fibers,cotton,organic,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.482455417,0.32935865
+1184,Plant Fibers,linen,conventional,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.482455417,0.32935865
+1185,Synthetic Fibers,acrylic,None,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.763788751,0.350030259
+1186,Synthetic Fibers,elastic,None,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.763788751,0.350030259
+1187,Synthetic Fibers,nylon,Econyl,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,4.763788751,0.350030259
+1188,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,United Kingdom,GHGs,kg CO2e,9.527577502,0.700060518
+1189,Leather,sheep/lamb,conventional,Tanning - RH_WB,United Kingdom,GHGs,kg CO2e,0.866120644,0.063640193
+1190,Leather,beef/calf,conventional,Animal rearing,United Kingdom,GHGs,kg CO2e,17.03761502,1.251877678
+1191,Plant Fibers,hemp,None,Crop farming,United Kingdom,GHGs,kg CO2e,1.772987863,0.130274333
+1192,Synthetic Fibers,elastic,None,Extraction,United Kingdom,GHGs,kg CO2e,0.069097484,0.005077095
+1193,Animal Fibers,silk,conventional,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.899581735,0.433485243
+1194,Animal Fibers,wool,organic,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.899581735,0.433485243
+1195,Animal Fibers,wool,regenerated,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,5.899581735,0.433485243
+1196,Synthetic Fibers,nylon,conventional,Spinning Weaving and Dyeing,United States,GHGs,kg CO2e,12.18743122,0.895499345
+1197,Plant Fibers,cotton,recycled,Cotton recycling,United States,GHGs,kg CO2e,0.430328295,0.031619354
+1198,Synthetic Fibers,acrylic,None,Processing,United States,GHGs,kg CO2e,4.534431632,0.333177721
+1199,Synthetic Fibers,polyester,conventional,Processing,United States,GHGs,kg CO2e,5.734160812,0.421330563
+1200,Synthetic Fibers,polyester,recycled,Processing,United States,GHGs,kg CO2e,4.837908533,0.355476379
+1201,Synthetic Fibers,nylon,conventional,Processing,United States,GHGs,kg CO2e,24.02165544,1.765045999
+1202,Plant Fibers,cotton,organic,Crop farming,United States,GHGs,kg CO2e,2.183139599,0.160411168
+1203,Animal Fibers,silk,conventional,Silk production,United States,GHGs,kg CO2e,22.233623,1.633666232
+1204,Animal Fibers,wool,conventional,Animal rearing,Uruguay,GHGs,kg CO2e,127.1444019,9.342225324
+1205,Synthetic Fibers,elastic,None,Processing,Vietnam,GHGs,kg CO2e,3.742310846,0.274974837
+1206,Plant Fibers,cotton,conventional,Ginning,Zimbabwe,GHGs,kg CO2e,0.806959808,0.059293215
+1207,Plant Fibers,cotton,organic,Crop farming,Zimbabwe,GHGs,kg CO2e,0.811183439,0.059603556
+1208,Plant Fibers,cotton,conventional,Crop farming,Zimbabwe,GHGs,kg CO2e,1.349838536,0.099182469
